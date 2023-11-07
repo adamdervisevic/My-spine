@@ -64,22 +64,6 @@ hr {
     max-width: 130%; 
     height: 100px;
 }
-hr {
-    height:3px;
-    background-color:black;
-    width: 95%;
-    margin-left: 2.5%;
-}
-.custom-padding {
-    padding-left: 150px;
-    padding-right: 150px;
-}
-.image-container img {
-    padding-left: 150px;
-    padding-right: 150px;
-    max-width: 130%; 
-    height: 100px;
-}
 .image-container {
     display: flex;
     flex-direction: column;
