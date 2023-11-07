@@ -3,6 +3,7 @@ body {
 }
 .hero {
     background-color: #f7f7f7;
+    height: 87vh;
 }
 .service-box {
     border: 1px solid #ccc; 
