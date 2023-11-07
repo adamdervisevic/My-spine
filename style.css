@@ -11,23 +11,22 @@ body {
     border-radius: 20px; 
     transition: transform 0.2s ease-in-out; 
     cursor: pointer; 
-    display: inline-flex; /* Added for centering content */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    width: 60px;
-    height: 60px;
+    display: inline-flex; 
+    justify-content: center; 
+    align-items: center; 
+    width: 100px;
+    height: 100px;
 }
 .service-box:hover {
     transform: scale(1.05); 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     background-color: #0076be;
 }
-/* This targets the <img> directly for the hover state of .service-box */
 .service-box:hover .service-icon {
     filter: brightness(0) invert(1);
 }
 .service-icon {
-    width: 50px; 
+    width: 100px; 
     height: auto;
     margin-bottom: 10px; 
 }
