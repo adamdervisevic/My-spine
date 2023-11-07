@@ -77,4 +77,6 @@ hr {
 .col-3:last-child {
     border-right: none;
 }
-
+.icon {
+    margin-right: 5px;
+}
