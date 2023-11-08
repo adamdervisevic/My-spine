@@ -79,3 +79,6 @@ hr {
 .icon {
     margin-right: 5px;
 }
+.button-group {
+    display: none;
+}
