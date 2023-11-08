@@ -69,13 +69,16 @@ hr {
     align-items: center;
     text-align: center;
 }
-.col-3 {
+.col-2 {
     border-right: 3px solid black;
 }
 
-.col-3:last-child {
+.col-2:last-child {
     border-right: none;
 }
 .icon {
     margin-right: 5px;
+}
+.button-group {
+    display: none;
 }
