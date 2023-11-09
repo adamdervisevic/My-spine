@@ -118,6 +118,40 @@ hr {
     .col-2:last-child {
         border-bottom: none;
     }
-}
+    }
+    .container {
+        margin-bottom: 5rem;
+        padding-bottom: 5rem;
+    }
 
+    .hover-div {
+        position: relative;
+    }
 
+    .hover-div p {
+        transition: backdrop-filter 0.3s ease;
+        backdrop-filter: blur(0);
+    }
+
+    .button-group {
+        display: block;
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        opacity: 0;
+        transition: all 0.3s ease, backdrop-filter 0.3s ease;
+    }
+
+    .hover-div:hover .button-group {
+        top: 50%;
+        opacity: 1;
+    }
+
+    .hover-div:hover p {
+        backdrop-filter: blur(3px);
+    }
+
+    .button-group button {
+        margin-bottom: 0.5rem;
+    }
