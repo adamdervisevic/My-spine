@@ -27,12 +27,6 @@ body {
     height: auto;
     margin-bottom: 10px; 
 }
-.image_margin{
-    margin-left: 200px;
-}
-.border{
-    border: 1px solid black;
-}
 .dropdown-toggle::after { 
     content: none; 
     }
