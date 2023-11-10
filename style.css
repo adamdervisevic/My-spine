@@ -1,9 +1,7 @@
 body {
     font-family: 'Catamaran', sans-serif;
 }
-.hero {
-    height: 87vh;
-}
+
 .service-box {
     border: 1px solid #ccc; 
     background-color: #e1e1e1; 
