@@ -1,3 +1,35 @@
+nav a {
+    padding: 10px 20px;
+    font-size: 1.5rem;
+    color: #e0ffff;
+    border-radius: 5px;
+    letter-spacing: 0.5px;
+  }
+nav a:hover, nav a.active {
+    background: rgb(247, 241, 241);
+    color: #42455a;
+    transition: 0.5s ease-out;
+    letter-spacing: 2px;
+  }
+  .navbar-brand {
+    padding: 0; 
+    color: inherit;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.navbar-brand img {
+    width: 290px;
+    height: 100px; 
+    border-radius: 5px;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    max-height: 20rem;
+}
+
+
 body {
     font-family: 'Catamaran', sans-serif;
 }
@@ -8,7 +40,6 @@ body {
     border-radius: 20px; 
     transition: transform 0.2s ease-in-out; 
     cursor: pointer; 
-    display: inline-flex; 
     justify-content: center; 
     align-items: center; 
     width: 100px;
@@ -30,12 +61,7 @@ body {
 .dropdown-toggle::after { 
     content: none; 
     }
-@media (min-width: 990px) {
-    .dropdown:hover .dropdown-menu{
-        display: block;
-        margin-top: 0;
-    }
-}
+
 .dropdown-toggle:hover, .nav-link:hover{
     color:#0076be;
 }
@@ -73,6 +99,7 @@ hr {
     display: none;
 }
 
+
 @media (max-width: 768px) {
     .custom-padding, .image-container img {
         padding-left: 2%;
@@ -88,14 +115,26 @@ hr {
     h1, h2, h3, h4, h5 {
         font-size: calc(1em + 1vw);
     }
+    .hero {
+        height: auto;
+        padding: 30px 15px;
+    }
+    .navbar-brand img {
+        /* Adjust logo size */
+        max-width: 80%;
+        height: auto;
+    }
 }
-
 @media (max-width: 480px) {
     .navbar-brand img, .footer img {
         width: 100%;
         height: auto;
     }
-
+@media only screen and (max-width: 700px){
+    .img-fluid {
+        display: none;
+    }
+    }
     .nav-item {
         width: 100%; 
     }
@@ -143,3 +182,12 @@ hr {
     .button-group button {
         margin-bottom: 0.5rem;
     }
+
+    @media (min-width: 990px) {
+        .dropdown:hover .dropdown-menu{
+            display: block;
+            margin-top: 0;
+        }
+    }
+
+      
