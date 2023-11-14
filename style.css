@@ -166,12 +166,6 @@ hr {
         flex-wrap: wrap;
         justify-content: center;
     }
-    
-    .col-card {
-        width: calc(25% - 2rem);
-        margin: 1rem;
-        cursor: pointer;
-    }
     .container{
         -webkit-transform-style: preserve-3d;
                 transform-style: preserve-3d;
