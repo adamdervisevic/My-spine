@@ -2,7 +2,7 @@ body {
     font-family: 'Onest', sans-serif;
 }
 .hero {
-    background-image: linear-gradient(to right, rgb(37, 150, 190), rgba(255, 255, 255, 0.5)), url(images/hero.jpg);
+    background-image: linear-gradient(to right, rgb(37, 150, 190), rgba(255, 255, 255, 0.5)), url(images/hero1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
