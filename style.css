@@ -7,7 +7,7 @@ nav {
     z-index: 100;
 }
 .hero {
-    background-image: linear-gradient(to right, rgb(37, 150, 190), rgba(255, 255, 255, 0.5)), url(images/hero1.png);
+    background-image: linear-gradient(to right, rgb(4, 70, 87), rgba(255, 255, 255, 0.5)), url(images/hero1.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -53,10 +53,10 @@ hr {
     width: 95%;
     margin-left: 2.5%;
 }
-.custom-padding, .image-container img {
+/* .custom-padding, .image-container img {
     padding-left: 5%; 
     padding-right: 5%;
-}
+} */
 .image-container img{
     height: 10rem;
     width: 10rem;
@@ -72,10 +72,6 @@ hr {
 }
 .button-group {
     display: none;
-}
-.wrapper-card {
-    width: 100%;
-    margin: 0 auto;
 }
 .cols-card {
     display: flex;
@@ -102,7 +98,7 @@ hr {
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
     text-align: center;
-    min-height: 280px;
+    min-height: 20rem;
     height: auto;
     border-radius: 10px;
     color: #fff;
@@ -211,6 +207,3 @@ hr {
     font-family: 'Montserrat';
     font-weight: 300;
 }
-    
-    
-    
