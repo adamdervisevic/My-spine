@@ -74,11 +74,9 @@ hr {
     display: none;
 }
 .wrapper-card {
-    width: 90%;
+    width: 100%;
     margin: 0 auto;
-    max-width: 100%;
 }
-
 .cols-card {
     display: flex;
     flex-wrap: wrap;
