@@ -60,19 +60,8 @@ hr {
 footer {
     background-color: #0076be;
 }
-
-social-menu ul {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 0;
-    margin: 0;
-    display: flex;
-}
 .social-menu ul li {
     list-style: none;
-    margin: 0 10px;
 }
 .social-menu ul li .fa {
     color: #000000;
@@ -102,14 +91,5 @@ social-menu ul {
     background-color: #3b5999;
 }
 .social-menu ul li:nth-child(2) a:hover {
-    background-color: #55acee;
-}
-.social-menu ul li:nth-child(3) a:hover {
-    background-color: #e4405f;
-}
-.social-menu ul li:nth-child(4) a:hover {
     background-color: #cd201f;
-}
-.social-menu ul li:nth-child(5) a:hover {
-    background-color: #0077B5;
 }
