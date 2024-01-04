@@ -4,6 +4,13 @@ body {
 a:hover {
   color: #0d6efd !important;
 }
+
+ul {
+  background-color: transparent !important;
+}
+li {
+  background-color: transparent !important;
+}
 nav {
   position: fixed;
   width: 100%;
@@ -111,4 +118,7 @@ footer {
 }
 .always_blue_link {
   color: #0076be !important;
+}
+.always_black_link {
+  color: #000000 !important;
 }
