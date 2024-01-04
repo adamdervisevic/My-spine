@@ -1,229 +1,335 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>My Spine</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="cards.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZuuL25t9l8Ftxnhwq1qj0i8/cq4knpDhvNyZxOeOW/6v5BtQJ0eP7JFObjimZx" crossorigin="anonymous" />
-    <link rel="icon" type="image/png" href="icons/spinelogo.jpg" id="customFavicon">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="cards.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Onest:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZuuL25t9l8Ftxnhwq1qj0i8/cq4knpDhvNyZxOeOW/6v5BtQJ0eP7JFObjimZx"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="icons/spinelogo.jpg"
+      id="customFavicon"
+    />
   </head>
 
-<body>
+  <body>
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="icons/logo.jpg" alt="logo" class="d-inline-block align-text-top">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav mx-auto mt-3">
-                  <li class="nav-item me-2">
-                    <a class="nav-link fs-4" href="#">O nama</a>
+      <div class="container">
+        <a class="navbar-brand" href="#">
+          <img
+            src="icons/logo.png"
+            alt="logo"
+            class="d-inline-block align-text-top"
+          />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav mx-auto mt-3">
+            <li class="nav-item me-2">
+              <a class="nav-link fs-4" href="#">O nama</a>
+            </li>
+            <li class="nav-item dropdown me-2">
+              <a
+                class="nav-link dropdown-toggle fs-4"
+                href="#"
+                id="navbarDropdown"
+                role="button"
+                data-bs-toggle="dropdown"
+                aria-expanded="false"
+              >
+                Usluge
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li>
+                  <a class="dropdown-item" href="#">Fizioterapeutski pregled</a>
                 </li>
-                    <li class="nav-item dropdown me-2">
-                        <a class="nav-link dropdown-toggle fs-4" href="#" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Usluge
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="#">Fizioterapeutski pregled</a></li>
-                            <li><a class="dropdown-item" href="#">Fizikalna terapija</a></li>
-                            <li><a class="dropdown-item" href="#">Akupunktura</a></li>
-                            <li><a class="dropdown-item" href="#">Kineziterapija</a></li>
-                            <li><a class="dropdown-item" href="#">Masaza</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item me-2">
-                        <a class="nav-link fs-4" href="#">Cenovnik</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link fs-4" href="https://www.setmore.com/" target="_blank" style="color: #0076be;">Zakazi termin</a>
-                    </li>
-                </ul>
-            </div>
+                <li>
+                  <a class="dropdown-item" href="#">Fizikalna terapija</a>
+                </li>
+                <li><a class="dropdown-item" href="#">Akupunktura</a></li>
+                <li><a class="dropdown-item" href="#">Kineziterapija</a></li>
+                <li><a class="dropdown-item" href="#">Masaza</a></li>
+              </ul>
+            </li>
+            <li class="nav-item me-2">
+              <a class="nav-link fs-4" href="#">Cenovnik</a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link fs-4 always_blue_link"
+                href="https://www.setmore.com/"
+                target="_blank"
+                style="color: #0076be"
+                >Zakazi termin</a
+              >
+            </li>
+          </ul>
         </div>
+      </div>
     </nav>
 
     <!-- hero -->
     <div class="hero">
-        <div class="container">
-            <div class="row text-white">
-                <div class="col-md-12 col-lg-12 col-xl-6">
-                    <h1 class="fw-bold py-3">Povratite mobilnost i poboljšajte kvalitet života</h1>
-                    <h5>Pružamo pomoć pacijentima svih starosnih doba kojima je potrebna rehabilitacija, oporavak od povreda ili hroničnih bolova uz pomoć različith vrsta terapije.</h5>
-        
-                    <div class="row g-3 py-5">
-                        <div class="col">
-                            <div class="service-box">
-                                <img src="icons/back-pain.png" alt="Bol u ledjima" class="service-icon">
-                            </div>
-                            <h3 class="h5 mt-2">Bol u ledjima</h3>
-                        </div>
-        
-                        <div class="col">
-                            <div class="service-box">
-                                <img src="icons/post-op.png" alt="Sportske povrede" class="service-icon ">
-                            </div>
-                            <h3 class="h5 mt-2">Sportske povrede</h3>
-                        </div>
-                        <div class="col">
-                            <div class="service-box">
-                                <img src="icons/shoulder-pain.png" alt="Bol u ramenu" class="service-icon">
-                            </div>
-                            <h3 class="h5 mt-2">Bol u ramenu</h3>
-                        </div>
-                        <div class="col">
-                            <div class="service-box">
-                                <img src="icons/knee-pain.png" alt="Bol u kolenu" class="service-icon">
-                            </div>
-                            <h3 class="h5 mt-2">Bol u kolenu</h3>
-                        </div>
-                        <div class="col">
-                            <div class="service-box">
-                                <img src="icons/therapy.png" alt="Oporavak" class="service-icon">
-                            </div>
-                            <h3 class="h5 mt-2">Oporavak</h3>
-                        </div>
-                    </div>
+      <div class="container">
+        <div class="row text-white">
+          <div class="col-md-12 col-lg-12 col-xl-6">
+            <h1 class="fw-bold py-3">
+              Povratite mobilnost i poboljšajte kvalitet života
+            </h1>
+            <h5>
+              Pružamo pomoć pacijentima svih starosnih doba kojima je potrebna
+              rehabilitacija, oporavak od povreda ili hroničnih bolova uz pomoć
+              različith vrsta terapije.
+            </h5>
+
+            <div class="row g-3 py-5">
+              <div class="col">
+                <div class="service-box">
+                  <img
+                    src="icons/back-pain.png"
+                    alt="Bol u ledjima"
+                    class="service-icon"
+                  />
                 </div>
+                <h3 class="h5 mt-2">Bol u ledjima</h3>
+              </div>
+
+              <div class="col">
+                <div class="service-box">
+                  <img
+                    src="icons/post-op.png"
+                    alt="Sportske povrede"
+                    class="service-icon"
+                  />
+                </div>
+                <h3 class="h5 mt-2">Sportske povrede</h3>
+              </div>
+              <div class="col">
+                <div class="service-box">
+                  <img
+                    src="icons/shoulder-pain.png"
+                    alt="Bol u ramenu"
+                    class="service-icon"
+                  />
+                </div>
+                <h3 class="h5 mt-2">Bol u ramenu</h3>
+              </div>
+              <div class="col">
+                <div class="service-box">
+                  <img
+                    src="icons/knee-pain.png"
+                    alt="Bol u kolenu"
+                    class="service-icon"
+                  />
+                </div>
+                <h3 class="h5 mt-2">Bol u kolenu</h3>
+              </div>
+              <div class="col">
+                <div class="service-box">
+                  <img
+                    src="icons/therapy.png"
+                    alt="Oporavak"
+                    class="service-icon"
+                  />
+                </div>
+                <h3 class="h5 mt-2">Oporavak</h3>
+              </div>
             </div>
+          </div>
         </div>
+      </div>
     </div>
 
-    
     <div class="container mt-5">
-        <div class="row">
-            <h2 class="fw-bold text-center">O nama</h2>
-            <div class="text-center fs-5 m-5">
-                
-              Naša ordinacija posvećena je pružanju visoko kvalitetne nege i rehabilitacije pacijentima. 
-
-              Stručni tim, predvođen iskusnim visokostrukovnim fizioterapeutom, koristi najnovije metode i tehnike u terapiji.
-              
-              Naša misija je da vam pomognemo da povratite mobilnost i poboljšate kvalitet života, pružajući individualni pristup i tretmane prilagođene vašim potrebama. 
-              
-              Verujemo u holistički pristup nezi, gde svaki pacijent dobija sveobuhvatnu, prilagođenu terapiju koja obezbeđuje optimalni oporavak.              
-                
-            </div>
-
-    <hr class="my-5">
-    
-    <div>
-        <h2 class="fw-bold text-center py-3">Usluge</h2>
-        <div class="row">
-            <div class="col-12">
-                <p class="text-center fs-5">
-                  Na raspolaganju su Vam naše raznovrsne terapijske usluge dizajnirane da ublaže hronične bolove, poboljšaju pokretljivost i unaprede vaše opšte zdravlje.
-                </p>
-            </div>
+      <div class="row">
+        <h2 class="fw-bold text-center">O nama</h2>
+        <div class="text-center fs-5 m-5">
+          Naša ordinacija posvećena je pružanju visoko kvalitetne nege i
+          rehabilitacije pacijentima. Stručni tim, predvođen iskusnim
+          visokostrukovnim fizioterapeutom, koristi najnovije metode i tehnike u
+          terapiji. Naša misija je da vam pomognemo da povratite mobilnost i
+          poboljšate kvalitet života, pružajući individualni pristup i tretmane
+          prilagođene vašim potrebama. Verujemo u holistički pristup nezi, gde
+          svaki pacijent dobija sveobuhvatnu, prilagođenu terapiju koja
+          obezbeđuje optimalni oporavak.
         </div>
-    </div>            
+
+        <hr class="my-5" />
+
+        <div>
+          <h2 class="fw-bold text-center py-3">Usluge</h2>
+          <div class="row">
+            <div class="col-12">
+              <p class="text-center fs-5">
+                Na raspolaganju su Vam naše raznovrsne terapijske usluge
+                dizajnirane da ublaže hronične bolove, poboljšaju pokretljivost
+                i unaprede vaše opšte zdravlje.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    </div>
-    
+
     <div class="wrapper-card my-5">
       <div class="cols-card">
-          <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
-            <div class="container">
-              <div class="front" style="background-image: url(images/fizioterapeutski.png)">
-                <div class="inner">
-                  <p>Fizioterapeutski Pregled</p>
-                </div>
-              </div>
-              <div class="back">
-                <div class="inner">
-                  <p>Bole vas ledja bla bla</p>
-                  <button type="button" class="btn btn-outline-primary">Saznajte vise</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
-            <div class="container">
-              <div class="front" style="background-image: url(images/fizikalna.png);">
-                <div class="inner">
-                  <p>Fizikalna Terapija</p>
-                </div>
-              </div>
-              <div class="back">
-                <div class="inner">
-                  <p>bla bla</p>
-                  <button type="button" class="btn btn-outline-primary">Saznajte vise</button>
-                </div>
+        <div
+          class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2"
+          ontouchstart="this.classList.toggle('hover');"
+        >
+          <div class="container">
+            <div
+              class="front"
+              style="background-image: url(images/fizioterapeutski.png)"
+            >
+              <div class="inner">
+                <p>Fizioterapeutski Pregled</p>
               </div>
             </div>
-          </div>
-          <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
-            <div class="container">
-              <div class="front" style="background-image: url(images/Akupunktura.png);">
-                <div class="inner">
-                  <p>Akupunktura</p>
-                </div>
-              </div>
-              <div class="back">
-                <div class="inner">
-                  <p>bla bla</p>
-                  <button type="button" class="btn btn-outline-primary">Saznajte vise</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
-            <div class="container">
-              <div class="front" style="background-image: url(images/kineziterapija\ \(2\).png)">
-                <div class="inner">
-                  <p>Kineziterapija</p>
-                </div>
-              </div>
-              <div class="back">
-                <div class="inner">
-                  <p>bla bla</p>
-                  <button type="button" class="btn btn-outline-primary">Saznajte vise</button>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
-            <div class="container">
-              <div class="front" style="background-image: url(images/masaze.png)">
-                <div class="inner">
-                  <p>Masaze</p>
-                </div>
-              </div>
-              <div class="back">
-                <div class="inner">
-                  <p>bla bla</p>
-                  <button type="button" class="btn btn-outline-primary">Saznajte vise</button>
-                </div>
+            <div class="back">
+              <div class="inner">
+                <p>Bole vas ledja bla bla</p>
+                <button type="button" class="btn btn-outline-primary">
+                  Saznajte vise
+                </button>
               </div>
             </div>
           </div>
         </div>
+        <div
+          class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2"
+          ontouchstart="this.classList.toggle('hover');"
+        >
+          <div class="container">
+            <div
+              class="front"
+              style="background-image: url(images/fizikalna.png)"
+            >
+              <div class="inner">
+                <p>Fizikalna Terapija</p>
+              </div>
+            </div>
+            <div class="back">
+              <div class="inner">
+                <p>bla bla</p>
+                <button type="button" class="btn btn-outline-primary">
+                  Saznajte vise
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2"
+          ontouchstart="this.classList.toggle('hover');"
+        >
+          <div class="container">
+            <div
+              class="front"
+              style="background-image: url(images/Akupunktura.png)"
+            >
+              <div class="inner">
+                <p>Akupunktura</p>
+              </div>
+            </div>
+            <div class="back">
+              <div class="inner">
+                <p>bla bla</p>
+                <button type="button" class="btn btn-outline-primary">
+                  Saznajte vise
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2"
+          ontouchstart="this.classList.toggle('hover');"
+        >
+          <div class="container">
+            <div
+              class="front"
+              style="background-image: url(images\kineziterapija-2.png)"
+            >
+              <div class="inner">
+                <p>Kineziterapija</p>
+              </div>
+            </div>
+            <div class="back">
+              <div class="inner">
+                <p>bla bla</p>
+                <button type="button" class="btn btn-outline-primary">
+                  Saznajte vise
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2"
+          ontouchstart="this.classList.toggle('hover');"
+        >
+          <div class="container">
+            <div class="front" style="background-image: url(images/masaze.png)">
+              <div class="inner">
+                <p>Masaze</p>
+              </div>
+            </div>
+            <div class="back">
+              <div class="inner">
+                <p>bla bla</p>
+                <button type="button" class="btn btn-outline-primary">
+                  Saznajte vise
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <hr class="my-5">
+    <hr class="my-5" />
 
     <section class="p-5">
       <div class="container">
         <div class="row g-4">
-          
           <div class="col-lg-6 col-md-12">
             <h2 class="text-center mb-4">Contact Info</h2>
             <ul class="list-group list-group-flush lead">
               <li class="list-group-item">
-                <span class="fw-bold">Adresa:</span> Knez Mihajlova 46, Smederevo, Serbia
+                <span class="fw-bold">Adresa:</span> Knez Mihajlova 46,
+                Smederevo, Serbia
               </li>
               <li class="list-group-item">
                 <span class="fw-bold">Telefon:</span> 062777566
@@ -234,37 +340,76 @@
             </ul>
             <div class="social-menu">
               <ul class="d-inline-flex gap-3 ps-1 pt-2">
-                <li><a href="https://www.facebook.com/profile.php?id=61553204384685" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://www.instagram.com/myspinesmederevo?fbclid=IwAR3YuRI9PBEhATwQ9uJzIeLYllv1sg1mrN7-HTmBtLoOtw_NfIuvp9qTVF4" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                <li><a href="https://wa.me/062777566" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                <li>
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61553204384685"
+                    target="_blank"
+                    ><i class="fa fa-facebook"></i
+                  ></a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.instagram.com/myspinesmederevo?fbclid=IwAR3YuRI9PBEhATwQ9uJzIeLYllv1sg1mrN7-HTmBtLoOtw_NfIuvp9qTVF4"
+                    target="_blank"
+                    ><i class="fa fa-instagram"></i
+                  ></a>
+                </li>
+                <li>
+                  <a href="https://wa.me/062777566" target="_blank"
+                    ><i class="fa fa-whatsapp"></i
+                  ></a>
+                </li>
               </ul>
             </div>
           </div>
-          
-        
+
           <div class="col-lg-6 col-md-12">
-            <div id="map" style="height: 20em;"> 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2837.8467396302817!2d20.92546552511691!3d44.66148283538663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475093c3a97dbf4b%3A0xdeb1a086de3a5819!2sKnez%20Mihajlova%2046%2C%20Smederevo%2011300!5e0!3m2!1sen!2srs!4v1701034000404!5m2!1sen!2srs" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" style="width: 100%; height: 100%;"></iframe>
+            <div id="map" style="height: 20em">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2837.8467396302817!2d20.92546552511691!3d44.66148283538663!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475093c3a97dbf4b%3A0xdeb1a086de3a5819!2sKnez%20Mihajlova%2046%2C%20Smederevo%2011300!5e0!3m2!1sen!2srs!4v1701034000404!5m2!1sen!2srs"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+                style="width: 100%; height: 100%"
+              ></iframe>
             </div>
           </div>
         </div>
       </div>
     </section>
-    
-    
 
     <!-- Footer -->
 
-  <footer class="text-white text-center">
+    <footer class="text-white text-center">
       <div class="container">
-        <p class="m-0 p-2">Copyright &copy; <a href="https://github.com/adamdervisevic" class="text-white" style="text-decoration: none;" target="_blank">adamdervisevic</a></p>
+        <p class="m-0 p-2">
+          Copyright &copy;
+          <a
+            href="https://github.com/adamdervisevic"
+            class="text-white"
+            style="text-decoration: none"
+            target="_blank"
+            >adamdervisevic</a
+          >
+        </p>
       </div>
     </footer>
 
-    <script src="https://kit.fontawesome.com/ae81086103.js" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
-</body>
-
-
+    <script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+    <script src="scripts/dark_mode.js"></script>
+    <script
+      src="https://kit.fontawesome.com/ae81086103.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+      integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+      integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+      crossorigin="anonymous"
+    ></script>
+  </body>
 </html>
