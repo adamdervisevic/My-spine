@@ -15,48 +15,11 @@
     <link rel="icon" type="image/png" href="icons/spinelogo.jpg" id="customFavicon">
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light">
-        <div class="container">
-            <a class="navbar-brand" href="#">
-                <img src="icons/logo.jpg" alt="logo" class="d-inline-block align-text-top">
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav mx-auto mt-3">
-                <li class="nav-item me-2">
-                    <a class="nav-link fs-4" href="index.html">O nama</a>
-                </li>
-                    <li class="nav-item dropdown me-2">
-                        <a class="nav-link dropdown-toggle fs-4" href="#" id="navbarDropdown" role="button"
-                            data-bs-toggle="dropdown" aria-expanded="false">
-                            Usluge
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="fizioterapeutski-pregled.html">Fizioterapeutski pregled</a></li>
-                            <li><a class="dropdown-item" href="fizikalna-terapija.html">Fizikalna terapija</a></li>
-                            <li><a class="dropdown-item" href="#">Akupunktura</a></li>
-                            <li><a class="dropdown-item" href="#">Kineziterapija</a></li>
-                            <li><a class="dropdown-item" href="#">Masaza</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item me-2">
-                        <a class="nav-link fs-4" href="#">Cenovnik</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link fs-4" href="https://www.setmore.com/" target="_blank" style="color: #0076be;">Zakazi termin</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
+    <?php include 'navbar.php'; ?>
 
     <div class="container">
         <h1 class="text-center my-5">Usluge</h1>
     
-        
         <div class="service-header">
             <h2>Fizioterapeutski Pregled</h2>
             <p class="py-2 fs-5">Pregled zapocinje objasnjenjem Vase fizicke tegobe, pozadinom upucivanjem u to sta pogorsava i ublazava bol. <br> Takodje se postavlja pitanje o Vasem zanimanju, opstom rutinom i nacinom zivota, obrascima spavanja i kako bol utice na vasu svakodnevnicu i hobije - ove informacije nam pomazu da dobijemo bolju sliku o problemu i da se vratite u normalu sto je pre moguce.</p>
@@ -65,16 +28,16 @@
 
             <p class="py-2 fs-5">Tokom fizickog pregleda testiramo kretanje, snagu, zglobove i proveravamo znake nervnog bola. <br> Upravo to je snaga u fizioterapeutskoj temeljnoj i specificnoj proceni kako bi se utvrdio uzrok Vaseg problema.</p>
 
-            <h3 class="py-3">Vizuelno</h3>
+            <h4 class="py-3">Vizuelno</h4>
             <p class="fs-5">Nakon pocetne medicinske istorije, gledamo pogresan polozaj, odstupanje od normalnog drzanja.  <br> Slabost i napetost misica gotovo uvek mogu objasniti posturalne devijacije. <br> Vizuelni pregled otoka mekih tkiva i promena velicine misica (hipertrofija, atrofija) dace nam vaznu dijagnosticku indikaciju. <br> Ovaj deo se naziva posturalna ANALIZA.</p>
 
-            <h3 class="py-3">Palpacija</h3>
+            <h4 class="py-3">Palpacija</h4>
             <p class="fs-5">Opipavanje (palpiranje) otoka i crvenila povredjenog mesta. <br> Opazanje mekog tkiva i kosti je vazan deo istrage. <br> Palpacija misica ce dati informacije o nabojima (disfunkciji) koji ce zahtevati odgovarajuci tretman. <br> Ovaj deo analize se naziva STATICKA palpacija.</p>
 
-            <h3 class="py-3">Pokretljivost misica</h3>
+            <h4 class="py-3">Pokretljivost misica</h4>
             <p class="fs-5">Testiranje segmentnih blokada izmedju prsljenova pasivno i aktivno. <br> FUNKCIJA MISICA kao snaga i fleksibilnost su od najvece vaznosti da bi se utvrdilo koja tetiva/misic uzrokuje problem. br Podrucje bola i uzrok bola nisu uvek povezani jedno s drugim, zato se mora pristupiti pazljivo i odgovorno.</p>
 
-            <h3 class="py-3">Neuroloski pregled</h3>
+            <h4 class="py-3">Neuroloski pregled</h4>
             <p class="fs-5">Nephodan je za konacnu dijagnozu. <br> Testiranje dubokih tetivnih refleksa, smanjenje osecaja (senzibiliteta) je potrebno da bi se lokalizovalo ostecenje nerva. <br> Rucno testiranje misicne snage/ slabosti/ bola daje dodatne informacije. <br> Ovaj deo se naziva FUNKCIONALNA neurologija.</p>
 
             <p class="py-2 fs-5"><b>DODATNE PRETRAGE</b>  u smislu rendgena, magnetne rezonance, skenera, ultrazvuka mogu biti potrebna dodatna dijagnosticka pomoc u konacnom utvrdjivanje uzroka stanja. <br> Zato cete biti blagovremeno upuceni na dalji pregled kod doktora ili konsultacije sa drugim strucnim licem.</p>
