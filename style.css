@@ -26,7 +26,9 @@ nav {
       rgb(4, 70, 87),
       rgba(255, 255, 255, 0.5)
     ),
-    url(images/hero1.png);
+    url(images/hero1.png) !important;
+  filter: 0;
+  isolation: isolate;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -59,6 +61,14 @@ nav {
 .dropdown:hover .dropdown-menu {
   display: block;
   margin-top: 0;
+  background-color: white !important;
+}
+.dropdown-menu:active {
+  background-color: unset;
+}
+
+.dropdown-item:hover {
+  background-color: unset;
 }
 .dropdown-toggle::after {
   content: none;
@@ -75,6 +85,7 @@ hr {
 }
 footer {
   background-color: #063857;
+  isolation: isolate;
 }
 .social-menu ul li {
   list-style: none;
@@ -121,4 +132,21 @@ footer {
 }
 .always_black_link {
   color: #000000 !important;
+}
+body.dark-mode .your-container {
+  background-image: linear-gradient(
+      to right,
+      rgb(4, 70, 87),
+      rgba(255, 255, 255, 0.5)
+    ),
+    url(images/hero1.png);
+}
+
+.darkmode--activated .hero,
+.darkmode--activated footer {
+  filter: invert(0);
+}
+
+.dropdown-item {
+  color: black !important;
 }

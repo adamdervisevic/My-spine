@@ -30,4 +30,13 @@ theme_toggle.onclick = () => {
       allElements[i].classList.remove("dark_theme");
     }
   }
+  const heroElement = document.querySelector(".hero");
+
+  // Get the computed style of the element
+  const computedStyle = window.getComputedStyle(heroElement);
+
+  // Access the background image property
+  const backgroundImage = computedStyle.getPropertyValue("background-image");
+
+  console.log(backgroundImage);
 };
