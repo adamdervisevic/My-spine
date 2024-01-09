@@ -150,3 +150,6 @@ body.dark-mode .your-container {
 .dropdown-item {
   color: black !important;
 }
+.darkmode-toggle {
+  z-index: 100;
+}
