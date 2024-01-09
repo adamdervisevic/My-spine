@@ -22,7 +22,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav mx-auto mt-3">
             <li class="nav-item me-2">
-              <a class="nav-link fs-4" href="#">O nama</a>
+              <a class="nav-link fs-4" href="index.php">O nama</a>
             </li>
             <li class="nav-item dropdown me-2">
               <a
@@ -37,14 +37,14 @@
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <li>
-                  <a class="dropdown-item" href="#">Fizioterapeutski pregled</a>
+                  <a class="dropdown-item" href="fizioterapeutski-pregled.php" target="_blank">Fizioterapeutski pregled</a>
                 </li>
                 <li>
-                  <a class="dropdown-item" href="#">Fizikalna terapija</a>
+                  <a class="dropdown-item" href="fizikalna-terapija.php" target="_blank">Fizikalna terapija</a>
                 </li>
-                <li><a class="dropdown-item" href="#">Akupunktura</a></li>
-                <li><a class="dropdown-item" href="#">Kineziterapija</a></li>
-                <li><a class="dropdown-item" href="#">Masaza</a></li>
+                <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Akupunktura</a></li>
+                <li><a class="dropdown-item" href="kineziterapija.php" target="_blank">Kineziterapija</a></li>
+                <li><a class="dropdown-item" href="masaza.php" target="_blank">Masaza</a></li>
               </ul>
             </li>
             <li class="nav-item me-2">
