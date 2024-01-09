@@ -86,7 +86,6 @@ include 'navbar.php'; ?>
             <b>Kratki intenzivni TENS:</b><br> Ukljucuje primenu struje visokog intenziteta / visoke frekvencije. Traje
             ne vise od 5 minuta.
         </p>
->>>>>>> 8d337064be79142e48a2c9c65f7a45634a6575bc
     </div>
 </div>
 

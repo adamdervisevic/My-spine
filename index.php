@@ -2,7 +2,6 @@
 include "head.php";
 include 'navbar.php'; ?>
 
-
 <div class="hero">
   <div class="container">
     <div class="row text-white">
