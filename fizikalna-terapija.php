@@ -74,18 +74,15 @@ include 'navbar.php'; ?>
             Frekvencija - moze biti niza od 2 Hz ili cak 60 Hz. <br> Obicno se koristi frekvencija od 150 Hz. <br> Ucestalost moze da izabere i promeni terapeut. <br>
             Intenzitet - moze da varira od 0 do 60 miliampera (mA) na mnogim jedinicama. <br>Pacijent ili terapeut mogu da kontrolisu intenzitet i treba da se oseti peckanje. <br>
             Sirok spektar varijacija u sirini, frekvenciji i intenzitetu pulsa daje fleksibilnost u pogledu tretmana koji se primenjuje kod pacijenata sa sindromima hronicnog bola.
-
             </p>
+
+            <h3 class="py-4">Kako se primenjuje TENS?</h3>
+            <p class="p-2 fs-5">Vakum elektrode ili gumene elektrode se vezu ili fiksiraju lepljivom trakom i prekrivaju provodljivim gelom, a zatim stavljaju na kozu pacijenta. <br> Zice koje povezuju elektrode sa jedinicom mogu se sakriti odecom. <br> Pozicioniranje elektroda: <br>
+            Moze se koristiti vise pristupa. <br> Elektrode se mogu postaviti preko
+            Akupunkturne tacke, motoricke tacke ili triger tacke. <br>
+            Podrucje najveceg intenziteta bola odgovarajuci dermatom ili segment kicme odgovarajuci periferni nerv koji god polozaj da se izabere za postavljanje elektroda, najbolje je da koza ispod njih ima netaknut senzorni mehanizam jer aferentna senzorna stimulacija velikog precnika koju proizvodi TNS struja koja deluje na kozu proizvodi efekat na bol. <br> Kada su elektrode postavljene, TENS se moze primeniti podesavanjem parametara.</p>
         </div>
-        <h4 class="py-3">Uopsteno je kategorisan u 3 tipa:</h4>
-        <p><b>Konvencionalni TENS (HIGH):</b> <br> Ukljucuje primenu struje niskog intenziteta/visoke frekvencije da bi
-            se proizveo jak, ali ugodan osecaj, njegovo trajanje je 30 min. <br>
-            <b>TENS nalik akupunkturi (LOV):</b><br> Ukljucuje primenu struje visokog intenziteta / niske frekvencije
-            preko misica ili akupunkturnih tacaka da bi se proizveo jak, ali udoban osecaj. <br> Njegovo trajanje je
-            manje od 20 minuta. <br>
-            <b>Kratki intenzivni TENS:</b><br> Ukljucuje primenu struje visokog intenziteta / visoke frekvencije. Traje
-            ne vise od 5 minuta.
-        </p>
+        
     </div>
 </div>
 
