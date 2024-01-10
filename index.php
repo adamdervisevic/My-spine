@@ -96,9 +96,9 @@ include 'navbar.php'; ?>
         <div class="back">
           <div class="inner">
             <p>Bole vas ledja bla bla</p>
-            <button type="button" class="btn btn-outline-primary">
+            <a href="fizioterapeutski-pregled.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
-            </button>
+            </button></a>
           </div>
         </div>
       </div>
@@ -113,9 +113,9 @@ include 'navbar.php'; ?>
         <div class="back">
           <div class="inner">
             <p>bla bla</p>
-            <button type="button" class="btn btn-outline-primary">
+            <a href="fizikalna-terapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
-            </button>
+            </button></a>
           </div>
         </div>
       </div>
@@ -130,9 +130,9 @@ include 'navbar.php'; ?>
         <div class="back">
           <div class="inner">
             <p>bla bla</p>
-            <button type="button" class="btn btn-outline-primary">
+            <a href="akupunktura.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
-            </button>
+            </button></a>
           </div>
         </div>
       </div>
@@ -147,9 +147,9 @@ include 'navbar.php'; ?>
         <div class="back">
           <div class="inner">
             <p>bla bla</p>
-            <button type="button" class="btn btn-outline-primary">
+            <a href="kineziterapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
-            </button>
+            </button></a>
           </div>
         </div>
       </div>
@@ -164,9 +164,9 @@ include 'navbar.php'; ?>
         <div class="back">
           <div class="inner">
             <p>bla bla</p>
-            <button type="button" class="btn btn-outline-primary">
+            <a href="masaza.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
-            </button>
+            </button></a>
           </div>
         </div>
       </div>
