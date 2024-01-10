@@ -204,7 +204,7 @@ include 'navbar.php'; ?>
         </p>
 
         <h4 class="py-4">Stanja koja se lece laser terapijom</h4>
-        <p>Sa sirokim spektrom prednosti, LASER terapija je prikladna za mnoge planove lecenja. Neki od njih su: <br></p>
+        <p class="py-2 fs-5">Sa sirokim spektrom prednosti, LASER terapija je prikladna za mnoge planove lecenja. Neki od njih su: <br></p>
 
         <ul>
             <li>Opsti hronicni bol</li>
@@ -223,8 +223,38 @@ include 'navbar.php'; ?>
             <li>Dijabeticka neuropatija</li>
             <li>Burzitis kuka ili ramena</li>
         </ul>
-        </div>
 
+        <h3 class="py-4 text-center">KRIOTERAPIJA</h3>
+        <p class="py-2 fs-5">Krioterapija ili hladna terapija se koristi u rehabilitaciji povreda, a cesto se koristi za ublazavanje bolova, smanjenje temperature, kontrolu krvarenja, prevenciju ili smanjenje edema od traume i upale, smanjenje misicnog spazma i smanjenje spasticnosti. <br>
+        Terapija se obicno primenjuje tokom prvih 24 do 48 sati nakon povrede. <br> Prvo nanosenje hladnoce obicno dovodi do smanjene filtracije tecnosti u intersticijumu tkiva, smanjene upale i bola i smanjenja brzine metabolizma.</p>
+
+        <p class="py-2 fs-5">Smanjenje temperature koze/mekih tkiva dovodi do:</p>
+
+        <ul>
+            <li>Smanjenja protoka krvi</li>
+            <li>Smanjenje otoka</li>
+            <li>Pomaze u smanjenju misicnog spazma</li>
+            <li>Smanjuje brzinu metabolizma ogranicavanjem protoka kiseonika do celija</li>
+            <li>Smanjuje upalu smanjenjem protoka krvi usled kontrakcije krvnih sudova</li>
+        </ul>
+
+        <p class="py-2 fs-5">Stanja koja se lece krioterapijom</p>
+
+        <ul>
+            <li>Osteoartritis</li>
+            <li>Nedavna povreda</li>
+            <li>Giht</li>
+            <li>Sojevi</li>
+            <li>Tendinitis ili iritacija tetiva rane akutne povrede i zapaljenja</li>
+            <li>Spazam misica</li>
+            <li>Spasticna stanja</li>
+            <li>Smanjenje temperature</li>
+            <li>Edematozna stanja</li>
+            <li>Hitna pomoc za opekotine</li>
+            <li>Ograniceni sekundarni bol ROM</li>
+        </ul>
+
+        </div>
 </div>
 
 
