@@ -178,8 +178,53 @@ include 'navbar.php'; ?>
             <li>Tokom menstruacije.</li>
             <li>Nepouzdan pacijent.</li>
         </ul>
-
 </div>
+
+        <div class="ostatak">
+        <h3 class="py-4 text-center">ULTRAZVUCNA TERAPIJA</h3>
+        <p class="py-2 fs-5">Primena ultrazvucne terapije pomaze povecanju protoka krvi u lokalizovanom podrucju, kako bi se smanjio otok i upala. <br> Takodje se koristi za ubrzanje zarastanja preloma kostiju. <br>
+        Terapija u osnovi ukljucuje upotrebu metalne sonde. <br> Postupak pocinje nanosenjem gela ili na glavu sonde ili direktno na kozu. <br>
+        Nakon nanosenja gela, sonda se kontinuirano pomera preko izabranog podrucja u trajanju od 5 do 10 minuta. <br> Intenzitet ili snaga ultrazvuka se podesava prema zeljenom efektu. <br> Neki ljudi mogu osetiti blagi puls tokom ove terapije, dok drugi mogu osetiti blagu toplinu u izabranom podrucju.</p>
+
+        <h4 class="py-4">Stanja koja se lece ultrazvucnom terapijom</h4>
+        <p class="py-2 fs-5">Ultrazvucna terapija ima brojne prednosti, jer se moze koristiti za sirok spektar problema. Medjutim, najcesce se koristi za: <br></p>
+
+        <ul>
+            <li>Zagrevanje i opustanje misica kako bi se ublazio bol</li>
+            <li>Povecanje protoka krvi, tj. limfe (limfa: tecnost koja nosi bela krvna zrnca po celom telu) radi ubrzavanja procesa zarastanja, ne samo misica, vec i zglobova i ligamenata.</li>
+            <li>Omeksavanje bilo kojeg postojeceg oziljnog tkiva</li>
+            <li>Pulsni ultrazvuk niskog intenziteta (LIPUS) koristi se za sanaciju preloma</li>
+            <li>Lecenje osteoartritisa kolena (OA)</li>
+        </ul>
+
+        <h3 class="py-4 text-center">LASERSKA TERAPIJA</h3>
+        <p class="py-2 fs-5">Laserska terapija podrazumeva primenu laserske svetlosti niskog intenziteta za ublažavanje bolova izazvanih oštećenjem mekog tkiva. <br> Olakšava regeneraciju tkiva i vraća normalnu funkciju ćelija. <br>
+        Koriste je stručnjaci za lečenje rana i bolova. <br>Nivo svetlosti je prilično nizak u poređenju sa drugim oblicima laserske terapije, kao što su oni koji se koriste za uništavanje tumora i koagulaciju. <br>
+        Postupak je generalno siguran, efikasan i neinvazivan za upotrebu. Iako ćete osetiti da laserski uređaj dodiruje vašu kožu, procedura je bezbolna, ne oseća se vibracija ili toplota.
+        </p>
+
+        <h4 class="py-4">Stanja koja se lece laser terapijom</h4>
+        <p>Sa sirokim spektrom prednosti, LASER terapija je prikladna za mnoge planove lecenja. Neki od njih su: <br></p>
+
+        <ul>
+            <li>Opsti hronicni bol</li>
+            <li>Teniski lakat</li>
+            <li>Plantarni fasciitis</li>
+            <li>Udar u rame</li>
+            <li>Smrznuto rame</li>
+            <li>Disk hernija</li>
+            <li>Isijas</li>
+            <li>Disfunkcija karlice</li>
+            <li>Osteoartritis kolena, kuka i skocnog zgloba</li>
+            <li>Reumatoidni artritis</li>
+            <li>Tendonitis</li>
+            <li>Teniski lakat</li>
+            <li>Temporomandibularni zglob</li>
+            <li>Dijabeticka neuropatija</li>
+            <li>Burzitis kuka ili ramena</li>
+        </ul>
+        </div>
+
 </div>
 
 
