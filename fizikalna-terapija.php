@@ -254,6 +254,22 @@ include 'navbar.php'; ?>
             <li>Ograniceni sekundarni bol ROM</li>
         </ul>
 
+        <h3 class="py-4 text-center">TERMOTERAPIJA</h3>
+        <p class="py-2 fs-5">Termoterapija koristi toplotu za povecanje cirkulacije krvi u odredjenom delu tela, sto moze olaksati bol, opustiti misice, i ubrzati proces oporavka. <br>Toplota moze biti primenjena direktno na povrsinu koze pomocu termofora, toplih obloga ili toplih kupki. <br> Ova terapija je posebno korisna za ljude koji pate od hronicnih bolova, artritisa, grceva u misicima, i povreda mekih tkiva. <br>
+        Povecanje temperature koze/mekog tkiva dovodi do: <br> Povecanja protoka krvi vazodilatacijom <br>
+        Povecava apsorpciju kiseonika cime se povecava zarastanje tkiva <br>
+        Povecava brzinu metabolizma <br>
+        Povecava rastegljivost tkiva <br></p>
+
+        <p class="py-2 fs-5">Stanja koja se lece termoterapijom</p>
+        <ul>
+            <li>Osteoartritis</li>
+            <li>Naprezanje i uganuce</li>
+            <li>Tendonitis</li>
+            <li>Zagrevanje ukocenih misica ili tkiva pre aktivnosti</li>
+            <li>Ublazavanje bolova ili grceva koji se odnose na povrede vrata ili ledja, ukljucujuci donji deo ledja, subakutna ili hronicna traumatska i inflamatorna stanja</li>
+            <li>Prethodno zagrevanje pre elektricne stimulacije</li>
+        </ul>
         </div>
 </div>
 
