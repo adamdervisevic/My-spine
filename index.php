@@ -95,7 +95,6 @@ include 'navbar.php'; ?>
         </div>
         <div class="back">
           <div class="inner">
-            <p>Bole vas ledja bla bla</p>
             <a href="fizioterapeutski-pregled.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
             </button></a>
@@ -112,7 +111,6 @@ include 'navbar.php'; ?>
         </div>
         <div class="back">
           <div class="inner">
-            <p>bla bla</p>
             <a href="fizikalna-terapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
             </button></a>
@@ -129,7 +127,6 @@ include 'navbar.php'; ?>
         </div>
         <div class="back">
           <div class="inner">
-            <p>bla bla</p>
             <a href="akupunktura.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
             </button></a>
@@ -146,7 +143,6 @@ include 'navbar.php'; ?>
         </div>
         <div class="back">
           <div class="inner">
-            <p>bla bla</p>
             <a href="kineziterapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
             </button></a>
@@ -163,7 +159,6 @@ include 'navbar.php'; ?>
         </div>
         <div class="back">
           <div class="inner">
-            <p>bla bla</p>
             <a href="masaza.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte vise
             </button></a>
