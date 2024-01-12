@@ -26,7 +26,7 @@ nav {
       rgb(4, 70, 87),
       rgba(255, 255, 255, 0.5)
     ),
-    url(images/hero1.png) !important;
+    url(images/hero1.jpg) !important;
   filter: 0;
   isolation: isolate;
   background-size: cover;

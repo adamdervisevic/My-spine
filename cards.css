@@ -132,3 +132,10 @@
     font-family: 'Montserrat';
     font-weight: 300;
 }
+
+@media (max-width: 571px) {
+    .cols-card {
+        display: none;
+    }
+
+}
