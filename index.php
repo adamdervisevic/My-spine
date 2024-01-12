@@ -88,7 +88,7 @@ include 'navbar.php'; ?>
   <div class="cols-card">
     <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
       <div class="container">
-        <div class="front" style="background-image: url(images/fizioterapeutski.png)">
+        <div class="front" style="background-image: url(images/fizioterapeutski.jpg)">
           <div class="inner">
             <p>Fizioterapeutski Pregled</p>
           </div>
@@ -104,7 +104,7 @@ include 'navbar.php'; ?>
     </div>
     <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
       <div class="container">
-        <div class="front" style="background-image: url(images/fizikalna.png)">
+        <div class="front" style="background-image: url(images/fizikalna.jpg)">
           <div class="inner">
             <p>Fizikalna Terapija</p>
           </div>
@@ -120,7 +120,7 @@ include 'navbar.php'; ?>
     </div>
     <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
       <div class="container">
-        <div class="front" style="background-image: url(images/Akupunktura.png)">
+        <div class="front" style="background-image: url(images/Akupunktura.jpg)">
           <div class="inner">
             <p>Akupunktura</p>
           </div>
@@ -136,7 +136,7 @@ include 'navbar.php'; ?>
     </div>
     <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
       <div class="container">
-        <div class="front" style="background-image: url(images/kineziterapija.png)">
+        <div class="front" style="background-image: url(images/kineziterapija.jpg)">
           <div class="inner">
             <p>Kineziterapija</p>
           </div>
@@ -152,7 +152,7 @@ include 'navbar.php'; ?>
     </div>
     <div class="col-xl-2 col-lg-6 col-md-8 col-sm-12 m-2" ontouchstart="this.classList.toggle('hover');">
       <div class="container">
-        <div class="front" style="background-image: url(images/masaze.png)">
+        <div class="front" style="background-image: url(images/masaze.jpg)">
           <div class="inner">
             <p>Masaze</p>
           </div>
