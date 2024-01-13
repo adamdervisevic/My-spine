@@ -24,6 +24,12 @@ nav {
 .navbar > .container {
   flex-wrap: unset !important;
 }
+
+@media only screen and (max-width: 991px) {
+  .navbar > .container {
+    flex-wrap: wrap !important;
+  }
+}
 .custom-grid-header {
   width: 100%;
   display: grid;
@@ -53,32 +59,34 @@ nav {
   gap: 10px;
 }
 
-.usluge-section div {
+.usluge-section div div {
   position: relative;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("images/fizioterapeutski.webp");
   background-size: cover;
   height: 300px;
   transition: all 0.75s;
 }
-.usluge-section div:nth-child(2) {
+.usluge-section div div:first-child {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("images/fizikalna.webp");
+    url("images/fizioterapeutski.webp");
 }
-.usluge-section div:nth-child(3) {
+.usluge-child-2 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("images/Akupunktura.webp");
+    url("images/fizikalna.webp") !important;
 }
-.usluge-section div:nth-child(4) {
+.usluge-child-3 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("images/kineziterapija.webp");
+    url("images/Akupunktura.webp") !important;
 }
-.usluge-section div:nth-child(5) {
+.usluge-child-4 {
   background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
-    url("images/masaze.webp");
+    url("images/kineziterapija.webp") !important;
+}
+.usluge-child-5 {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("images/masaze.webp") !important;
 }
 
-.usluge-section div p {
+.usluge-section div div p {
   position: absolute;
   top: 50%;
   left: 50%;
@@ -93,21 +101,21 @@ nav {
   color: white;
   text-decoration: none;
 }
-.usluge-section div p:nth-child(2) {
+.usluge-section div div p:nth-child(2) {
   display: none;
 }
 
-.usluge-section div:hover {
+.usluge-section div:hover div {
   transform: rotateY(180deg);
 }
-.usluge-section div:hover p:first-child {
+.usluge-section div:hover div p:first-child {
   display: none;
 }
-.usluge-section div:hover p:nth-child(2) {
+.usluge-section div:hover div p:nth-child(2) {
   display: block;
 }
 
-.usluge-section div:hover p {
+.usluge-section div:hover div p {
   transform: translate(-50%, -50%) rotateY(180deg);
 }
 

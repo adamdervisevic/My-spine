@@ -88,39 +88,53 @@ include 'navbar.php'; ?>
 
 <section class="usluge-section">
   <div>
-    <p>fizioterapeutski-pregled</p>
-    <p>
-      <a href="fizioterapeutski-pregled.php">
-        Saznajte vise</a>
-    </p>
+    <div>
+      <p>fizioterapeutski-pregled</p>
+      <p>
+        <a href="fizioterapeutski-pregled.php">
+          Saznajte vise</a>
+      </p>
+    </div>
   </div>
+
   <div>
-    <p>fizikalna-terapija</p>
-    <p>
-      <a href="fizikalna-terapija.php">
-        Saznajte vise</a>
-    </p>
+    <div class="usluge-child-2">
+      <p>fizikalna-terapija</p>
+      <p>
+        <a href="fizikalna-terapija.php">
+          Saznajte vise</a>
+      </p>
+    </div>
   </div>
+
   <div>
-    <p>Akupunktura</p>
-    <p>
-      <a href="akupunktura.php">
-        Saznajte vise</a>
-    </p>
+    <div class="usluge-child-3">
+      <p>Akupunktura</p>
+      <p>
+        <a href="akupunktura.php">
+          Saznajte vise</a>
+      </p>
+    </div>
   </div>
+
   <div>
-    <p>Kineziterapija</p>
-    <p>
-      <a href="kineziterapija.php">
-        Saznajte vise</a>
-    </p>
+    <div class="usluge-child-4">
+      <p>Kineziterapija</p>
+      <p>
+        <a href="kineziterapija.php">
+          Saznajte vise</a>
+      </p>
+    </div>
   </div>
+
   <div>
-    <p>Masaza</p>
-    <p>
-      <a href="masaza.php">
-        Saznajte vise</a>
-    </p>
+    <div class="usluge-child-5">
+      <p>Masaza</p>
+      <p>
+        <a href="masaza.php">
+          Saznajte vise</a>
+      </p>
+    </div>
   </div>
 </section>
 
