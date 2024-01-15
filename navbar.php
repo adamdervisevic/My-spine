@@ -33,6 +33,6 @@
           <a class="nav-link fs-4" href="#">Cenovnik</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link fs-4 always_blue_link" href="https://www.setmore.com/" target="_blank"
+          <a class="nav-link fs-4 always_blue_link" href="https://myspinemojakima.setmore.com/" target="_blank"
             style="color: #0076be">Zakazi termin</a>
 </nav>
