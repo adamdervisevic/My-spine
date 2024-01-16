@@ -2,7 +2,7 @@
 include "head.php";
 include 'navbar.php'; ?>
 
-<div class="container">
+<div class="container text-center">
 <h1 class="text-center my-5">Cenovnik</h1>
     <div class="cenovnik">
         <p class="py-2 fs-5">Fizioterapeutski pregled/KONSULTACIJA - besplatan</p>
@@ -23,7 +23,6 @@ include 'navbar.php'; ?>
         <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + akupunktura- 2500din</b></p>
         <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + masaza + akupunktura - 3000din</b></p>
 </div>
-
 </div>
 
 

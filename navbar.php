@@ -13,8 +13,8 @@
           <a class="nav-link fs-4" href="index.php">O nama</a>
         </li>
         <li class="nav-item dropdown me-2">
-          <a class="nav-link dropdown-toggle fs-4" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-            aria-expanded="false">
+          <a class="nav-link dropdown-toggle fs-4" href="usluge.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+            aria-expanded="false" taget="_blank">
             Usluge
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -30,7 +30,7 @@
           </ul>
         </li>
         <li class="nav-item me-2">
-          <a class="nav-link fs-4" href="#">Cenovnik</a>
+          <a class="nav-link fs-4" href="cenovnik.php" target="_blank">Cenovnik</a>
         </li>
         <li class="nav-item">
           <a class="nav-link fs-4 always_blue_link" href="https://myspinemojakima.setmore.com/" target="_blank"

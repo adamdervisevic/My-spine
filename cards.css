@@ -133,9 +133,13 @@
     font-weight: 300;
 }
 
-@media (max-width: 571px) {
-    .cols-card {
-        display: none;
-    }
-
+[class*="col-"] {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 0;
+}
+[class*="col-"] {
+    min-width: 20rem; 
 }
