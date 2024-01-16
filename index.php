@@ -57,7 +57,7 @@ include 'navbar.php'; ?>
   <div class="row">
     <h2 class="fw-bold text-center">O nama</h2>
     <div class="text-center ">
-      <p class="fs-5">
+      <p class="fs-5 pb-4">
         Naša ordinacija posvećena je pružanju visoko kvalitetne nege i
         rehabilitacije pacijentima. Stručni tim, predvođen iskusnim
         visokostrukovnim fizioterapeutom, koristi najnovije metode i tehnike u
@@ -67,12 +67,13 @@ include 'navbar.php'; ?>
         svaki pacijent dobija sveobuhvatnu, prilagođenu terapiju koja
         obezbeđuje optimalni oporavak.
       </p>
+      <hr class="my-5"/>
     </div>
 
-    <hr class="my-5" class="hr-first" />
+    
 
     <div>
-      <h2 class="fw-bold text-center py-3">Usluge</h2>
+      <h2 class="fw-bold text-center py-4">Usluge</h2>
       <div class="row">
         <div class="col-12">
           <p class="text-center fs-5">
@@ -89,8 +90,6 @@ include 'navbar.php'; ?>
 <?php
 include "cards.php";
 ?>
-
-<hr class="my-5" />
 
 <section class="p-5 contact-section">
   <div class="container">
