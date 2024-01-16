@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
   <div class="container">
-    <a class="navbar-brand" href="#">
-      <img src="icons/logo.png" alt="logo" class="d-inline-block align-text-top" />
+    <a class="navbar-brand" href="index.php">
+      <img src="icons/logo.png" alt="logo" class="d-inline-block align-text-top"/>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
       aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -14,7 +14,7 @@
         </li>
         <li class="nav-item dropdown me-2">
           <a class="nav-link dropdown-toggle fs-4" href="usluge.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
-            aria-expanded="false" taget="_blank">
+            aria-expanded="false" target="_blank">
             Usluge
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
