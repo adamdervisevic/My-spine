@@ -26,7 +26,7 @@
             </li>
             <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Akupunktura</a></li>
             <li><a class="dropdown-item" href="kineziterapija.php" target="_blank">Kineziterapija</a></li>
-            <li><a class="dropdown-item" href="masaza.php" target="_blank">Masaze</a></li>
+            <li><a class="dropdown-item" href="masaze.php" target="_blank">Masaze</a></li>
           </ul>
         </li>
         <li class="nav-item me-2">
