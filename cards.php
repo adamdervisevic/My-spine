@@ -4,7 +4,7 @@
       <div class="container">
         <div class="front" style="background-image: url(images/fizioterapeutski.webp)">
           <div class="inner">
-            <p>Fizioterapeutski Pregled</p>
+            <p>Fizioterapeutski pregled</p>
           </div>
         </div>
         <div class="back">
@@ -21,7 +21,7 @@
       <div class="container">
         <div class="front" style="background-image: url(images/fizikalna.webp)">
           <div class="inner">
-            <p>Fizikalna Terapija</p>
+            <p>Fizikalna terapija</p>
           </div>
         </div>
         <div class="back">
