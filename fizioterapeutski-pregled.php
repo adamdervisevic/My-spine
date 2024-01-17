@@ -6,7 +6,7 @@ include 'navbar.php'; ?>
     <h1 class="text-center my-5">Usluge</h1>
 
     <div class="service-header">
-        <h2>Fizioterapeutski Pregled</h2>
+        <h2>Fizioterapeutski pregled</h2>
         <p class="py-2 fs-5">Pregled zapocinje objasnjenjem Vase fizicke tegobe, pozadinom upucivanjem u to sta
             pogorsava i ublazava bol. <br> Takodje se postavlja pitanje o Vasem zanimanju, opstom rutinom i nacinom
             zivota, obrascima spavanja i kako bol utice na vasu svakodnevnicu i hobije - ove informacije nam pomazu da
@@ -48,6 +48,9 @@ include 'navbar.php'; ?>
             blagovremeno upuceni na dalji pregled kod doktora ili konsultacije sa drugim strucnim licem.</p>
     </div>
 </div>
+
+<?php include "kontakt.php"; 
+?>
 
 <?php
 include "footer.php"

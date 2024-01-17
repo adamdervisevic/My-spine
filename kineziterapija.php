@@ -16,6 +16,8 @@ include 'navbar.php'; ?>
     <p class="py-2 fs-5">Koristi se za lecenje povreda i oboljenja razlicitog porekla, ali se pre svega preporucuje osobama sa misicnim tegobama, kao sto su tendonitis, plantarni fascitis, bol u ledjima (lumbalni i cervikalni sindrom) i degenerativne bolesti misicno-skeletnog sistema.</p>
 </div>
 
+<?php include "kontakt.php"; 
+?>
 
 <?php
 include "footer.php";

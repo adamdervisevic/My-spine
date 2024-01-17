@@ -4,7 +4,7 @@ include 'navbar.php'; ?>
 
 <div class="container">
     <h1 class="text-center my-5">Usluge</h1>
-    <h2 class="text-center">Masaza</h2>
+    <h2 class="text-center">Masaze</h2>
     <p class="py-5 fs-5">Terapija masažom koju izvodi licencirani fizioterapeut uključuje korišćenje različitih pritisaka, pokreta i tehnika za manipulaciju mišićima i drugim mekim tkivima u telu. <br> Sa ciljem usporavanja vašeg nervnog sistema, masažna terapija se može koristiti za oslobađanje stresa i napetosti, olakšanje simptoma, zarastanje povreda i podršku dobrom stanju.</p>
 
     <h4 class="py-3">Relaks (opustajuca) masaza</h4>
@@ -34,7 +34,8 @@ include 'navbar.php'; ?>
 
 
 
-
+<?php include "kontakt.php"; 
+?>
 
 <?php
 include "footer.php";

@@ -29,7 +29,7 @@ include 'navbar.php'; ?>
     </ul>
 </div>
 
-
+<?php include "kontakt.php"; ?>
 <?php
 include "footer.php";
 ?>

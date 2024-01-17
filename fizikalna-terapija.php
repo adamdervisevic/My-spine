@@ -273,7 +273,8 @@ include 'navbar.php'; ?>
         </div>
 </div>
 
-
+<?php include "kontakt.php"; 
+?>
 <?php
 include "footer.php";
 ?>
