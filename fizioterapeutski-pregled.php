@@ -34,12 +34,12 @@ include 'navbar.php'; ?>
 
         <h4 class="py-3">Pokretljivost misica</h4>
         <p class="fs-5">Testiranje segmentnih blokada izmedju prsljenova pasivno i aktivno. <br> FUNKCIJA MISICA kao
-            snaga i fleksibilnost su od najvece vaznosti da bi se utvrdilo koja tetiva/misic uzrokuje problem. br
+            snaga i fleksibilnost su od najvece vaznosti da bi se utvrdilo koja tetiva/misic uzrokuje problem. <br>
             Podrucje bola i uzrok bola nisu uvek povezani jedno s drugim, zato se mora pristupiti pazljivo i odgovorno.
         </p>
 
         <h4 class="py-3">Neuroloski pregled</h4>
-        <p class="fs-5">Nephodan je za konacnu dijagnozu. <br> Testiranje dubokih tetivnih refleksa, smanjenje osecaja
+        <p class="fs-5">Neophodan je za konacnu dijagnozu. <br> Testiranje dubokih tetivnih refleksa, smanjenje osecaja
             (senzibiliteta) je potrebno da bi se lokalizovalo ostecenje nerva. <br> Rucno testiranje misicne snage/
             slabosti/ bola daje dodatne informacije. <br> Ovaj deo se naziva FUNKCIONALNA neurologija.</p>
 

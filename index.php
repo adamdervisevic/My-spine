@@ -63,7 +63,7 @@ include 'navbar.php'; ?>
         visokostrukovnim fizioterapeutom, koristi najnovije metode i tehnike u
         terapiji. Nasa misija je da vam pomognemo da povratite mobilnost i
         poboljsate kvalitet zivota, pruzajuci individualni pristup i tretmane
-        prilagođene vasim potrebama. Verujemo u holistički pristup nezi, gde
+        prilagođene vasim potrebama. Verujemo u holisticki pristup nezi, gde
         svaki pacijent dobija sveobuhvatnu, prilagodjenu terapiju koja
         obezbedjuje optimalni oporavak.
       </p>
@@ -76,8 +76,8 @@ include 'navbar.php'; ?>
         <div class="col-12">
           <p class="text-center fs-5">
             Na raspolaganju su Vam nase raznovrsne terapijske usluge
-            dizajnirane da ublaze hronične bolove, poboljsaju pokretljivost
-            i unaprede vase opšte zdravlje.
+            dizajnirane da ublaze hronicne bolove, poboljsaju pokretljivost
+            i unaprede vase opste zdravlje.
           </p>
         </div>
       </div>

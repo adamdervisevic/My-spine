@@ -5,7 +5,7 @@ include 'navbar.php'; ?>
     <h1 class="text-center my-5">Usluge</h1>
     <h2 class="text-center">Fizikalna terapija</h2>
     <div class="TENS">
-        <h3 class="py-4 text-center">TRANSKUTANA ELEKTRIČNA NERVNA STIMULACIJA (TENS)</h3>
+        <h3 class="py-4 text-center">TRANSKUTANA ELEKTRICNA NERVNA STIMULACIJA (TENS)</h3>
         <h4 class="py-3">STA JE TENS I KOJE SU NJEGOVE VRSTE?</h4>
         <p class="py-2 fs-5">To je jedna od metoda elektricne stimulacije ciji je primarni cilj da obezbedi odredjeni
             stepen simptomatskog ublazavanja bola uz pomoc uzbudljivih senzornih nerava. <br> TENS jedinice rade tako
@@ -53,7 +53,7 @@ include 'navbar.php'; ?>
             </ul>
 
             <h4 class="py-4">KOJA SU OGRANICENJA ILI NEZELJENI EFEKTI TENS-A?</h4>
-            <p class="py-2 fs-5">Za vecinu ljudi je bezbedno da koriste TENS jedinicu, obicno bez nezeljenih efekata, ali, <br> Elektricni impuls TENS-a moze izazvati zujanje, peckanje ili bockanje, sto bi nekima moglo biti neprijatno. <br>
+            <p class="py-2 fs-5">Za vecinu ljudi je bezbedno da koriste TENS jedinicu, obicno bez nezeljenih efekata, ali, elektricni impuls TENS-a moze izazvati zujanje, peckanje ili bockanje, sto bi nekima moglo biti neprijatno. <br>
             Neki ljudi mogu biti alergicni na lepljive jastucice. <br> Svako ko oseti crvenilo i iritaciju koze moze preci na hipoalergene. <br>
             Elektrode nikada ne treba stavljati na prednji deo vrata jer to moze sniziti krvni pritisak ili preko ociju, jer moze izazvati povredu. <br> </p>
             <h4 class="py-4">KOJE SU KONTRAINDIKACIJE ZA TENS?</h4>
@@ -62,7 +62,7 @@ include 'navbar.php'; ?>
             <b>Trudnice:</b> Trebalo bi da izbegava upotrebu u predelima stomaka i karlice. <br>
             <b>Ljudi sa epilepsijom:</b> Primena elektroda na glavu ili vrat ljudi sa epilepsijom moze izazvati iznenadni poremecaj u mozgu. <br>
             <b>Ljudi sa srcanim problemima.</b> <br>
-            <b>Ljudi sa pejsmejkerom ili drugom vrstom elektricnih ili metalnih implantata</b></p>
+            <b>Ljudi sa pejsmejkerom ili drugom vrstom elektricnih ili metalnih implantata.</b></p>
 
             <h3 class="py-4">KOJI SU PARAMETRI LECENJA TENS-A?</h3>
             <p class="p-2 fs-5"><b>Parametri tretmana:</b> <br>
@@ -76,7 +76,7 @@ include 'navbar.php'; ?>
             <h3 class="py-4">Kako se primenjuje TENS?</h3>
             <p class="p-2 fs-5">Vakum elektrode ili gumene elektrode se vezu ili fiksiraju lepljivom trakom i prekrivaju provodljivim gelom, a zatim stavljaju na kozu pacijenta. <br> Zice koje povezuju elektrode sa jedinicom mogu se sakriti odecom. <br> Pozicioniranje elektroda: <br>
             Moze se koristiti vise pristupa. <br> Elektrode se mogu postaviti preko
-            Akupunkturne tacke, motoricke tacke ili triger tacke. <br>
+            akupunkturne tacke, motoricke tacke ili triger tacke. <br>
             Podrucje najveceg intenziteta bola odgovarajuci dermatom ili segment kicme odgovarajuci periferni nerv koji god polozaj da se izabere za postavljanje elektroda, najbolje je da koza ispod njih ima netaknut senzorni mehanizam jer aferentna senzorna stimulacija velikog precnika koju proizvodi TNS struja koja deluje na kozu proizvodi efekat na bol. <br> Kada su elektrode postavljene, TENS se moze primeniti podesavanjem parametara.</p>
     </div>
     <div class="IFT">
