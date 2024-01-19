@@ -5,106 +5,106 @@ include 'navbar.php'; ?>
     <h1 class="text-center my-5">Usluge</h1>
     <h2 class="text-center">Fizikalna terapija</h2>
     <div class="TENS">
-        <h3 class="py-4 text-center">TRANSKUTANA ELEKTRICNA NERVNA STIMULACIJA (TENS)</h3>
-        <h4 class="py-3">STA JE TENS I KOJE SU NJEGOVE VRSTE?</h4>
-        <p class="py-2 fs-5">To je jedna od metoda elektricne stimulacije ciji je primarni cilj da obezbedi odredjeni
-            stepen simptomatskog ublazavanja bola uz pomoc uzbudljivih senzornih nerava. <br> TENS jedinice rade tako
-            sto isporucuju male elektricne impulse kroz elektrode koje imaju lepljive jastucice za pricvrscivanje na
-            kozu osobe. <br> Ovi elektricni impulsi preplavljuju nervni sistem, smanjujuci njegovu sposobnost da prenosi
-            signale bola do kicmene mozdine i mozga.</p>
+        <h3 class="py-4 text-center">TRANSKUTANA ELEKTRIČNA NERVNA STIMULACIJA (TENS)</h3>
+        <h4 class="py-3">ŠTA JE TENS I KOJE SU NJEGOVE VRSTE?</h4>
+        <p class="py-2 fs-5">To je jedna od metoda električne stimulacije čiji je primarni cilj da obezbedi određeni
+            stepen simptomatskog ublažavanja bola uz pomoć uzbudljivih senzornih nerava. <br> TENS jedinice rade tako
+            što isporučuju male električne impulse kroz elektrode koje imaju lepljive jastučiće za pričvršćivanje na
+            kožu osobe. <br> Ovi električni impulsi preplavljuju nervni sistem, smanjujući njegovu sposobnost da prenosi
+            signale bola do kičmene moždine i mozga.</p>
 
 
-            <h4 class="py-4">Uopsteno je kategorisan u 3 tipa:</h4>
-            <p class="py-2 fs-5"><b>Konvencionalni TENS (HIGH):</b> <br> Ukljucuje primenu struje niskog intenziteta/visoke frekvencije da bi se proizveo jak, ali ugodan osecaj, njegovo trajanje je 30 min. <br>
-                <b>TENS nalik akupunkturi (LOV):</b><br> Ukljucuje primenu struje visokog intenziteta / niske frekvencije preko misica ili akupunkturnih tacaka da bi se proizveo jak, ali udoban osecaj. <br> Njegovo trajanje je manje od 20 minuta. <br>
-                <b>Kratki intenzivni TENS:</b><br> Ukljucuje primenu struje visokog intenziteta / visoke frekvencije. <br> Traje ne vise od 5 minuta.</p>
+            <h4 class="py-4">Uopšteno je kategorisan u 3 tipa:</h4>
+            <p class="py-2 fs-5"><b>Konvencionalni TENS (HIGH):</b> <br> Uključuje primenu struje niskog intenziteta/visoke frekvencije da bi se proizveo jak, ali ugodan osećaj, njegovo trajanje je 30 min. <br>
+                <b>TENS nalik akupunkturi (LOV):</b><br> Uključuje primenu struje visokog intenziteta / niske frekvencije preko mišića ili akupunkturnih tačaka da bi se proizveo jak, ali udoban osećaj. <br> Njegovo trajanje je manje od 20 minuta. <br>
+                <b>Kratki intenzivni TENS:</b><br> Uključuje primenu struje visokog intenziteta / visoke frekvencije. <br> Traje ne više od 5 minuta.</p>
 
             
-            <h3 class="py-4">KAKO FUNKCIONISE TENS?</h3>
-            <p class="py-2 fs-5"><b>Modulacija bola: </b><br> Da bi se bol osetio obicno postoji lanac u kome se periferni receptori stimulisu stetnim fizickim ili hemijskim agensom i ovaj stimulus se prenosi perifernim nervima do kicmene mozdine, do mozdine, kroz mozdano stablo i tako do cerebralni korteks, gde se bol ceni na nivou svesti. <br> Ovaj put nuzno ukljucuje brojne sinapse i inhibicija impulsa na njihovom putu do korteksa je mehanizam kojim se bol moze modulirati.</p>
+            <h3 class="py-4">KAKO FUNKCIONIŠE TENS?</h3>
+            <p class="py-2 fs-5"><b>Modulacija bola: </b><br> Da bi se bol osetio obično postoji lanac u kome se periferni receptori stimulišu štetnim fizičkim ili hemijskim agensom i ovaj stimulus se prenosi perifernim nervima do kičmene moždine, do moždine, kroz moždano stablo i tako do cerebralni korteks, gde se bol ceni na nivou svesti. <br> Ovaj put nužno uključuje brojne sinapse i inhibicija impulsa na njihovom putu do korteksa je mehanizam kojim se bol može modulirati.</p>
 
-            <p class="py-2 fs-5">Nociceptivni nervni zavrseci mogu biti stimulisani hemikalijama koje se oslobadjaju povredom tkiva ili akumulirane kao rezultat metabolicke aktivnosti i tako stvaraju elektricni potencijal. <br> Stepen proizvedene stimulacije zavisi od broja prisutnih hemikalija. <br> Pretpostavlja se da uklanjanje ovih hemikalija iz podrucja moze pomoci u smanjenju nivoa nociceptivne stimulacije i stoga fizioterapeutski agensi (led i toplota) koji uticu na cirkulaciju mogu pomoci da se to postigne. <br> Nociceptivni stimulus se prenosi na pupcanu vrpcu zajedno sa sporoprovodljivim, nemijelinizovanim C vlaknom ili brze mijelinizovanim Ad (delta) vlaknom. <br> Oba ce na kraju uci u pupcanu vrpcu zadnjim putem. <br> Pretpostavlja se da, posto oba ova vlakna imaju maksimalnu frekvenciju na kojoj mogu da sprovode, ako se primeni veca frekvencija stimulacije, moze doci do fizioloskog bloka provodjenja. <br> TENS proizvodi ovu potrebnu frekvenciju i tako ima ovaj efekat.</p>
+            <p class="py-2 fs-5">Nociceptivni nervni završeci mogu biti stimulisani hemikalijama koje se oslobađaju povredom tkiva ili akumulirane kao rezultat metaboličke aktivnosti i tako stvaraju električni potencijal. <br> Stepen proizvedene stimulacije zavisi od broja prisutnih hemikalija. <br> Pretpostavlja se da uklanjanje ovih hemikalija iz područja može pomoći u smanjenju nivoa nocićeptivne stimulacije i stoga fizioterapeutski agensi (led i toplota) koji utiču na cirkulaciju mogu pomoći da se to postigne. <br> Nocićeptivni stimulus se prenosi na pupčanu vrpcu zajedno sa sporoprovodljivim, nemijelinizovanim C vlaknom ili brže mijelinizovanim Ad (delta) vlaknom. <br> Oba će na kraju ući u pupčanu vrpcu zadnjim putem. <br> Pretpostavlja se da, pošto oba ova vlakna imaju maksimalnu frekvenciju na kojoj mogu da sprovode, ako se primeni veća frekvencija stimulacije, može doći do fiziološkog bloka provođenja. <br> TENS proizvodi ovu potrebnu frekvenciju i tako ima ovaj efekat.</p>
 
-            <h3 class="py-4">KOJE SIMPTOME I STANJA LECI TENS?</h3>
-            <p class="py-2 fs-5">TENS jedinica ima kontrole koje omogucavaju ljudima da daju odgovarajuci nivo ublazavanja bola. <br> Moze se postici promenom intenziteta, frekvencije i trajanja impulsa. <br> Moze pomoci u lecenju sledecih simptoma:</p>
+            <h3 class="py-4">KOJE SIMPTOME I STANJA LEČI TENS?</h3>
+            <p class="py-2 fs-5">TENS jedinica ima kontrole koje omogućavaju ljudima da daju odgovarajući nivo ublažavanja bola. <br> Može se postići promenom intenziteta, frekvencije i trajanja impulsa. <br> Može pomoći u lečenju sledećih simptoma:</p>
 
             <ul>
-                <li>Sindromi hronicnog bola</li>
+                <li>Sindromi hroničnog bola</li>
                 <li>Period Pain</li>
                 <li>Labor Pain</li>
                 <li>Postoperativni bol</li>
                 <li>Bol u zglobovima</li>
-                <li>Misicni bol</li>
+                <li>Mišićni bol</li>
                 <li>Ligamentni bol</li>
                 <li>Tendinitis bol</li>
-                <li>Bol u vratu i ledjima</li>
+                <li>Bol u vratu i leđima</li>
 
-            <p class="py-2 fs-5">Takodje moze ublaziti bol koji je posledica sledeceg:</p>
+            <p class="py-2 fs-5">Takođe može ublažiti bol koji je posledica sledećeg:</p>
 
                 <li>Endometrioza</li>
                 <li>Artritis</li>
                 <li>Sportske povrede</li>
                 <li>Multipla skleroza</li>
                 <li>Fibromijalgija</li>
-                <li>Miofascijalne triger tacke</li>
-                <li>Bolna dijabeticka neuropatija</li>
-                <li>Ostecenje kicmene mozdine</li>
+                <li>Miofascijalne triger tačke</li>
+                <li>Bolna dijabetička neuropatija</li>
+                <li>Oštećenje kičmene moždine</li>
                 <li>Amputacija</li>
             </ul>
 
-            <h4 class="py-4">KOJA SU OGRANICENJA ILI NEZELJENI EFEKTI TENS-A?</h4>
-            <p class="py-2 fs-5">Za vecinu ljudi je bezbedno da koriste TENS jedinicu, obicno bez nezeljenih efekata, ali, elektricni impuls TENS-a moze izazvati zujanje, peckanje ili bockanje, sto bi nekima moglo biti neprijatno. <br>
-            Neki ljudi mogu biti alergicni na lepljive jastucice. <br> Svako ko oseti crvenilo i iritaciju koze moze preci na hipoalergene. <br>
-            Elektrode nikada ne treba stavljati na prednji deo vrata jer to moze sniziti krvni pritisak ili preko ociju, jer moze izazvati povredu. <br> </p>
+            <h4 class="py-4">KOJA SU OGRANIČENJA ILI NEŽELJENI EFEKTI TENS-A?</h4>
+            <p class="py-2 fs-5">Za većinu ljudi je bezbedno da koriste TENS jedinicu, obično bez neželjenih efekata, ali, električni impuls TENS-a može izazvati zujanje, peckanje ili bockanje, što bi nekima moglo biti neprijatno. <br>
+            Neki ljudi mogu biti alergični na lepljive jastučiće. <br> Svako ko oseti crvenilo i iritaciju kože može preći na hipoalergene. <br>
+            Elektrode nikada ne treba stavljati na prednji deo vrata jer to može sniziti krvni pritisak ili preko očiju, jer može izazvati povredu. <br> </p>
             <h4 class="py-4">KOJE SU KONTRAINDIKACIJE ZA TENS?</h4>
-            <p class="py-2 fs-5">Iako je bezbedan za vecinu ljudi, strucnjaci preporucuju da neke grupe ljudi izbegavaju TENS tretman osim ako lekar ne savetuje njegovu upotrebu. <br>
-            Gornja preporuka se odnosi na sledece ljude: <br>
+            <p class="py-2 fs-5">Iako je bezbedan za većinu ljudi, stručnjaci preporučuju da neke grupe ljudi izbegavaju TENS tretman osim ako lekar ne savetuje njegovu upotrebu. <br>
+            Gornja preporuka se odnosi na sledeće ljude: <br>
             <b>Trudnice:</b> Trebalo bi da izbegava upotrebu u predelima stomaka i karlice. <br>
-            <b>Ljudi sa epilepsijom:</b> Primena elektroda na glavu ili vrat ljudi sa epilepsijom moze izazvati iznenadni poremecaj u mozgu. <br>
-            <b>Ljudi sa srcanim problemima.</b> <br>
-            <b>Ljudi sa pejsmejkerom ili drugom vrstom elektricnih ili metalnih implantata.</b></p>
+            <b>Ljudi sa epilepsijom:</b> Primena elektroda na glavu ili vrat ljudi sa epilepsijom može izazvati iznenadni poremećaj u mozgu. <br>
+            <b>Ljudi sa srčanim problemima.</b> <br>
+            <b>Ljudi sa pejsmejkerom ili drugom vrstom električnih ili metalnih implantata.</b></p>
 
-            <h3 class="py-4">KOJI SU PARAMETRI LECENJA TENS-A?</h3>
+            <h3 class="py-4">KOJI SU PARAMETRI LEČENJA TENS-A?</h3>
             <p class="p-2 fs-5"><b>Parametri tretmana:</b> <br>
-            Pulsni oblik - obicno pravougaoni. <br>
-            Sirina impulsa - meri se u mikrosekundama i krece se izmedju 100 i 500us. <br>
-            Frekvencija - moze biti niza od 2 Hz ili cak 60 Hz. <br> Obicno se koristi frekvencija od 150 Hz. <br> Ucestalost moze da izabere i promeni terapeut. <br>
-            Intenzitet - moze da varira od 0 do 60 miliampera (mA) na mnogim jedinicama. <br>Pacijent ili terapeut mogu da kontrolisu intenzitet i treba da se oseti peckanje. <br>
-            Sirok spektar varijacija u sirini, frekvenciji i intenzitetu pulsa daje fleksibilnost u pogledu tretmana koji se primenjuje kod pacijenata sa sindromima hronicnog bola.
+            Pulsni oblik - obično pravougaoni. <br>
+            Širina impulsa - meri se u mikrosekundama i kreće se između 100 i 500us. <br>
+            Frekvencija - može biti niža od 2 Hz ili čak 60 Hz. <br> Obično se koristi frekvencija od 150 Hz. <br> Učestalost može da izabere i promeni terapeut. <br>
+            Intenzitet - može da varira od 0 do 60 miliampera (mA) na mnogim jedinicama. <br>Pacijent ili terapeut mogu da kontrolišu intenzitet i treba da se oseti peckanje. <br>
+            Širok spektar varijacija u širini, frekvenciji i intenzitetu pulsa daje fleksibilnost u pogledu tretmana koji se primenjuje kod pacijenata sa sindromima hroničnog bola.
             </p>
 
             <h3 class="py-4">Kako se primenjuje TENS?</h3>
-            <p class="p-2 fs-5">Vakum elektrode ili gumene elektrode se vezu ili fiksiraju lepljivom trakom i prekrivaju provodljivim gelom, a zatim stavljaju na kozu pacijenta. <br> Zice koje povezuju elektrode sa jedinicom mogu se sakriti odecom. <br> Pozicioniranje elektroda: <br>
-            Moze se koristiti vise pristupa. <br> Elektrode se mogu postaviti preko
-            akupunkturne tacke, motoricke tacke ili triger tacke. <br>
-            Podrucje najveceg intenziteta bola odgovarajuci dermatom ili segment kicme odgovarajuci periferni nerv koji god polozaj da se izabere za postavljanje elektroda, najbolje je da koza ispod njih ima netaknut senzorni mehanizam jer aferentna senzorna stimulacija velikog precnika koju proizvodi TNS struja koja deluje na kozu proizvodi efekat na bol. <br> Kada su elektrode postavljene, TENS se moze primeniti podesavanjem parametara.</p>
+            <p class="p-2 fs-5">Vakum elektrode ili gumene elektrode se vežu ili fiksiraju lepljivom trakom i prekrivaju provodljivim gelom, a zatim stavljaju na kožu pacijenta. <br> Žice koje povezuju elektrode sa jedinicom mogu se sakriti odećom. <br> Pozicioniranje elektroda: <br>
+            Može se koristiti više pristupa. <br> Elektrode se mogu postaviti preko
+            akupunkturne tačke, motoričke tačke ili triger tačke. <br>
+            Područje najvećeg intenziteta bola odgovarajući dermatom ili segment kičme odgovarajući periferni nerv koji god položaj da se izabere za postavljanje elektroda, najbolje je da koža ispod njih ima netaknut senzorni mehanizam jer aferentna senzorna stimulacija velikog prečnika koju proizvodi TNS struja koja deluje na kožu proizvodi efekat na bol. <br> Kada su elektrode postavljene, TENS se može primeniti podešavanjem parametara.</p>
     </div>
     <div class="IFT">
         <h3 class="text-center py-4">INTERFERENTNA TERAPIJA</h3>
-        <h4 class="py-4">STA JE INTERFERENTNA TERAPIJA (IFT)?</h4>
-        <p class="py-2 fs-5">IFT, sto znaci interferentna terapija, jedna je od vrsta elektroterapije koja se koristi za upravljanje bolom. <br> Princip interferentne terapije je da izazove da dve srednje frekvencijske struje malo razlicitih frekvencija interferiraju jedna sa drugom. <br> Na primer, ako kolo A nosi struju sa frekvencijom od 4000 Hz, a kolo B nosi struju sa frekvencijom od 3980 Hz, tada ce proizvedena niska frekvencija biti 20 Hz i ova frekvencija je veoma korisna u modulaciji bola. <br> Nova niskofrekventna struja poznata kao frekvencija otkucaja jednaka je razlici u frekvencijama izmedju dve srednje frekvencijske struje proizvedene u tkivima na mestu gde se dve struje ukrstaju. <br> U osnovi se koristi za lecenje hronicnih, posttraumatskih i post-hirurskih bolova. <br> Osnovni princip podrazumeva koriscenje efekata niskih frekvencija (manje od 250pps) bez bolnih ili neprijatnih nuspojava. <br> Glavna prednost IFT-a je da proizvodi efekte u tkivu, tacno tamo gde je potrebno, bez nepotrebne i neprijatne stimulacije koze. <br> Ova tehnika se siroko koristi za izazivanje kontrakcije misica, podsticanje zarastanja i smanjenje edema. </p>
+        <h4 class="py-4">ŠTA JE INTERFERENTNA TERAPIJA (IFT)?</h4>
+        <p class="py-2 fs-5">IFT, što znači interferentna terapija, jedna je od vrsta elektroterapije koja se koristi za upravljanje bolom. <br> Princip interferentne terapije je da izazove da dve srednje frekvencijske struje malo različitih frekvencija interferiraju jedna sa drugom. <br> Na primer, ako kolo A nosi struju sa frekvencijom od 4000 Hz, a kolo B nosi struju sa frekvencijom od 3980 Hz, tada će proizvedena niska frekvencija biti 20 Hz i ova frekvencija je veoma korisna u modulaciji bola. <br> Nova niskofrekventna struja poznata kao frekvencija otkucaja jednaka je razlici u frekvencijama između dve srednje frekvencijske struje proizvedene u tkivima na mestu gde se dve struje ukrštaju. <br> U osnovi se koristi za lečenje hroničnih, posttraumatskih i post-hirurških bolova. <br> Osnovni princip podrazumeva korišćenje efekata niskih frekvencija (manje od 250pps) bez bolnih ili neprijatnih nuspojava. <br> Glavna prednost IFT-a je da proizvodi efekte u tkivu, tačno tamo gde je potrebno, bez nepotrebne i neprijatne stimulacije kože. <br> Ova tehnika se široko koristi za izazivanje kontrakcije mišića, podsticanje zarastanja i smanjenje edema. </p>
 
         <h4 class="py-4">KOJE SU VRSTE INTERFERENTNIH TERAPIJA?</h4>
         <p class="py-2 fs-5"><b>Vektorski efekat</b> <br>
-        Interferentno polje se rotira pod uglom od 450 u svakom pravcu, tako da polje pokriva siru oblast. <br> Ovo je korisno kod difuzne patologije ili ako se mesto lezije ne moze tacno lokalizovati.</p>
+        Interferentno polje se rotira pod uglom od 450 u svakom pravcu, tako da polje pokriva širu oblast. <br> Ovo je korisno kod difuzne patologije ili ako se mesto lezije ne može tačno lokalizovati.</p>
 
         <p class="py-2 fs-5"><b>Promene frekvencije</b> <br>
-        Neka oprema dozvoljava varijaciju u brzini promene frekvencije. <br> Ritmicki rezim moze biti kontinuirano ljuljanje od 0 do 100 Hz za 5-10 sekundi i nazad u slicnom vremenu ili moze trajati 1-6 sekundi na jednoj frekvenciji praceno 1-6 s na drugoj frekvenciji sa promenljivim vremenom za ljuljanje izmedju dva.</p>
+        Neka oprema dozvoljava varijaciju u brzini promene frekvencije. <br> Ritmički režim može biti kontinuirano ljuljanje od 0 do 100 Hz za 5-10 sekundi i nazad u sličnom vremenu ili može trajati 1-6 sekundi na jednoj frekvenciji praćeno 1-6 s na drugoj frekvenciji sa promenljivim vremenom za ljuljanje između dva.</p>
 
         <p class="py-2 fs-5"><b>Konstantna frekvencija</b> <br>
-        Neki tretmani se mogu izvesti sa smetnjom fiksiranom na odredjenoj frekvenciji.<br> Ritmicka frekvencija je korisna ako treba tretirati nekoliko vrsta tkiva odjednom. <br>Varijacija u frekvenciji takodje prevazilazi problem akomodacije tkiva gde odgovor odredjenog tkiva opada sa vremenom.</p>
+        Neki tretmani se mogu izvesti sa smetnjom fiksiranom na određenoj frekvenciji.<br> Ritmička frekvencija je korisna ako treba tretirati nekoliko vrsta tkiva odjednom. <br>Varijacija u frekvenciji takođe prevazilazi problem akomodacije tkiva gde odgovor određenog tkiva opada sa vremenom.</p>
 
         <p class="py-2 fs-5"><b>Sveep frekvencije</b> <br>
-        Princip koriscenja sveep-a je da je masina podesena da automatski menja frekvenciju stimulacije, koristi ili unapred podesene ili korisnicki podesene opsege sveep-a.<br> Opseg zahvata treba da odgovara zeljenim fizioloskim efektima. <br> Obrazac sveep-a cini znacajnu razliku u stimulaciji koju prima pacijent. <br>Vecina masina nudi nekoliko sema za ciscenje: <br>
+        Princip korišćenja sveep-a je da je mašina podešena da automatski menja frekvenciju stimulacije, koristi ili unapred podešene ili korisnički podešene opsege sveep-a.<br> Opseg zahvata treba da odgovara željenim fiziološkim efektima. <br> Obrazac sveep-a čini značajnu razliku u stimulaciji koju prima pacijent. <br>Većina mašina nudi nekoliko šema za čišćenje: <br>
         Trouglasti uzorak. <br>
         Rectangular Sveep Pattern. <br>
         Trapezoidni Sveep Pattern.<br>
-        U 'trouglastom' obrascu sveep-a, masina se postepeno menja od osnovne do gornje frekvencije, tokom 6 sekundi.<br> Iako neke masine nude opcije od 1 ili 3 sekunde.<br> Sve frekvencije izmedju osnovne i gornje frekvencije se isporucuju u jednakoj proporciji.<br>
-        Pravougaoni sveep je drugaciji obrazac stimulacije u kojem su podesene osnovna i gornja frekvencija, ali masina se tada „prebacuje“ izmedju ove dve specificne frekvencije umesto da se postepeno menja sa jedne na drugu nivoa frekvencije, a drugi ce se prebacivati sa jedne frekvencije na drugu.<br> 'Trapezoidni' potez je zapravo kombinacija ova dva.</p>
+        U 'trouglastom' obrascu sveep-a, mašina se postepeno menja od osnovne do gornje frekvencije, tokom 6 sekundi.<br> Iako neke mašine nude opcije od 1 ili 3 sekunde.<br> Sve frekvencije između osnovne i gornje frekvencije se isporučuju u jednakoj proporciji.<br>
+        Pravougaoni sveep je drugačiji obrazac stimulacije u kojem su podešene osnovna i gornja frekvencija, ali mašina se tada „prebacuje“ između ove dve specifične frekvencije umesto da se postepeno menja sa jedne na drugu nivoa frekvencije, a drugi će se prebacivati sa jedne frekvencije na drugu.<br> 'Trapezoidni' potez je zapravo kombinacija ova dva.</p>
 
-        <h4 class="py-4">KAKO FUNKCIONISE INTERFERENTNA TERAPIJA (IFT)?</h4>
-        <p class="py-2 fs-5">Terapija interferentnom strujom deluje tako sto salje male kolicine elektricne stimulacije ostecenim tkivima u telu. <br> Terapija ima za cilj da podstakne prirodni proces tela da reaguje na bol, povecavajuci cirkulaciju i na taj nacin proizvodi hormone koji podsticu zarastanje.<br> IFT isporucuje isprekidane impulse da stimulise povrsinske nerve i blokira signal bola, isporucujuci kontinuiranu duboku stimulaciju u zahvaceno tkivo.<br> IFT ublazava bol, povecava cirkulaciju, smanjuje edem i stimulise misice.<br> Frekvencija od 100Hz moze stimulisati A-beta vlakna velikog precnika, koja uticu na kapiju bola, i inhibiraju prenos nociceptivnog saobracaja malog precnika (C i A-delta vlakna), sto efikasno zatvara hod bolnim impulsima.<br> Interferencijalna struja povecava cirkulaciju krvi cime se smanjuje otok, ispiranjem hemikalija koje stimulisu nociceptivne nervne zavrsetke.<br>
-        Frekvencija izmedju 1 i 100 Hz se koristi za kontrakciju normalno inerviranih misica.<br> Razlicite vrste frekvencija izazivaju razlicite kontrakcije, niska frekvencija, izaziva trzanje, frekvencija izmedju 5 i 20 Hz izaziva delimicnu kontrakciju tetanije, a frekvencija od 30 do 100 Hz izaziva tetanicnu kontrakciju. <br> IFT takodje pomaze u smanjenju edema.<br> Frekvencija od 100Hz promovise vazodilataciju, cime se smanjuje edem.<br> A frekvencija od 10 Hz aktivira misicno-skeletnu pumpu, koja se koristi za promociju venskog i limfnog povratka izazivajuci smanjenje edema.<br> Neuroni koji cine autonomni nervni sistem su mali i slabo mijelinizovani poput Aδ i C vlakana perifernog nervnog sistema i da bi stimulisali autonomni nervni sistem, nize frekvencije se koriste za povecanje protoka krvi.</p>
+        <h4 class="py-4">KAKO FUNKCIONIŠE INTERFERENTNA TERAPIJA (IFT)?</h4>
+        <p class="py-2 fs-5">Terapija interferentnom strujom deluje tako što šalje male količine električne stimulacije oštećenim tkivima u telu. <br> Terapija ima za cilj da podstakne prirodni proces tela da reaguje na bol, povećavajući cirkulaciju i na taj način proizvodi hormone koji podstiču zarastanje.<br> IFT isporučuje isprekidane impulse da stimuliše površinske nerve i blokira signal bola, isporučujući kontinuiranu duboku stimulaciju u zahvaćeno tkivo.<br> IFT ublažava bol, povećava cirkulaciju, smanjuje edem i stimuliše mišiće.<br> Frekvencija od 100Hz može stimulisati A-beta vlakna velikog prečnika, koja utiču na kapiju bola, i inhibiraju prenos nocićeptivnog saobraćaja malog prečnika (C i A-delta vlakna), što efikasno zatvara hod bolnim impulsima.<br> Interferencijalna struja povećava cirkulaciju krvi čime se smanjuje otok, ispiranjem hemikalija koje stimulišu nocićeptivne nervne završetke.<br>
+        Frekvencija između 1 i 100 Hz se koristi za kontrakciju normalno inerviranih mišića.<br> Različite vrste frekvencija izazivaju različite kontrakcije, niska frekvencija, izaziva trzanje, frekvencija između 5 i 20 Hz izaziva delimičnu kontrakciju tetanije, a frekvencija od 30 do 100 Hz izaziva tetanićnu kontrakciju. <br> IFT takođe pomaže u smanjenju edema.<br> Frekvencija od 100Hz promoviše vazodilataciju, čime se smanjuje edem.<br> A frekvencija od 10 Hz aktivira mišićno-skeletnu pumpu, koja se koristi za promociju venskog i limfnog povratka izazivajući smanjenje edema.<br> Neuroni koji čine autonomni nervni sistem su mali i slabo mijelinizovani poput Aδ i C vlakana perifernog nervnog sistema i da bi stimulisali autonomni nervni sistem, niže frekvencije se koriste za povećanje protoka krvi.</p>
         
         <h4 class="py-4">KOJI SU PARAMETRI TRETMANA INTERFERENTNE TERAPIJE (IFT)?</h4>
         <p class="py-2 fs-5">Efekat IFT zavisi od: <br>
@@ -112,65 +112,65 @@ include 'navbar.php'; ?>
         Intenzitet struje <br>
         Postavljanje elektroda <br>
         Frekvencija <br>
-        100-150Hz konstantna ili 90-100Hz ritmicna: <br> Ove frekvencije su korisne za ublazavanje bolova, IFT deluje na velika mijelinizovana vlakna u dorzalnom rogu, blokirajuci mala vlakna bola. <br> Vise frekvencije imaju pokretacki efekat na endogene opijate u srednjem mozgu koji inhibiraju bol.</p>
+        100-150Hz konstantna ili 90-100Hz ritmična: <br> Ove frekvencije su korisne za ublažavanje bolova, IFT deluje na velika mijelinizovana vlakna u dorzalnom rogu, blokirajući mala vlakna bola. <br> Više frekvencije imaju pokretački efekat na endogene opijate u srednjem mozgu koji inhibiraju bol.</p>
 
-        <p class="py-2 fs-5">0-10Hz ritmicno ili 10-50Hz ritmicno: <br> Ove frekvencije su korisne za stimulaciju misica. <br> Oni proizvode stimulaciju dubokog, normalno inerviranog misicnog tkiva sa malo senzorne stimulacije. <br> Kako se frekvencija povecava, kontrakcija se menja od trzanja do tetanicke kontrakcije.</p>
+        <p class="py-2 fs-5">0-10Hz ritmično ili 10-50Hz ritmično: <br> Ove frekvencije su korisne za stimulaciju mišića. <br> Oni proizvode stimulaciju dubokog, normalno inerviranog mišićnog tkiva sa malo senzorne stimulacije. <br> Kako se frekvencija povećava, kontrakcija se menja od tržanja do tetanićke kontrakcije.</p>
 
-        <p class="py-2 fs-5">0-100Hz ritmicki: Opseg frekvencija proizvodi vazodilataciju. <br> Ovo je stimulacija i opustanje zidova krvnih sudova, dajuci sinusni efekat.</p>
+        <p class="py-2 fs-5">0-100Hz ritmički: Opseg frekvencija proizvodi vazodilataciju. <br> Ovo je stimulacija i opuštanje zidova krvnih sudova, dajući sinusni efekat.</p>
 
         <p class="py-2 fs-5">Intenzitet struje <br>
-        Struja se povecava sve dok pacijent ne oseti peckanje, dalje kako dolazi do akomodacije intenzitet se polako povecava do tacke stimulacije misica. <br> Trajanje tretmana varira izmedju 10-20 minuta.</p>
+        Struja se povećava sve dok pacijent ne oseti peckanje, dalje kako dolazi do akomodacije intenzitet se polako povećava do tačke stimulacije mišića. <br> Trajanje tretmana varira između 10-20 minuta.</p>
 
         <p class="py-2 fs-5">Postavljanje elektroda <br>
-        Pacijent se postavlja u udoban polozaj i koza se priprema za tretman. <br> Koza se cisti, u slucaju bilo kakve lezije koze, podrucje se izoluje vazelinom. <br> Vakum elektrode ili elektrode podloge se tacno postavljaju na mesto tretmana i dva para elektroda se postavljaju tako da tacka ukrstanja dve struje bude iznad ili unutar lezije.</p>
+        Pacijent se postavlja u udoban položaj i koza se priprema za tretman. <br> Koža se čisti, u slučaju bilo kakve lezije kože, područje se izoluje vazelinom. <br> Vakum elektrode ili elektrode podloge se tačno postavljaju na mesto tretmana i dva para elektroda se postavljaju tako da tačka ukrštanja dve struje bude iznad ili unutar lezije.</p>
 
-        <h4 class="py-4">KOJA SU STANJA ILI SIMPTOMI KOJI SE LECE INTERFERENTNOM TERAPIJOM (IFT)?</h4>
-        <p class="py-2 fs-5">IFT radi na poseban nacin jer koristi interferencijalnu, a ne normalnu stimulaciju. <br> Glavne klinicke aplikacije za koje se cini da se IFT koristi su:</p>
+        <h4 class="py-4">KOJA SU STANJA ILI SIMPTOMI KOJI SE LEČE INTERFERENTNOM TERAPIJOM (IFT)?</h4>
+        <p class="py-2 fs-5">IFT radi na poseban način jer koristi interferencijalnu, a ne normalnu stimulaciju. <br> Glavne kliničke aplikacije za koje se čini da se IFT koristi su:</p>
 
         <ul>
-            <li>Ublazavanje bolova kod stanja kao sto su kauzalgija, herpes zoster i neuralgija.</li>
-            <li>Grlica materice spondiloza.</li>
+            <li>Ublažavanje bolova kod stanja kao što su kauzalgija, herpes zoster i neuralgija.</li>
+            <li>Grlića materice spondiloza.</li>
             <li>Osteoartritis kolena.</li>
             <li>Ankilozni spondilitis</li>
             <li>Reumatoidni artritis.</li>
             <li>Smrznuto rame.</li>
             <li>Disk hernija.</li>
-            <li>Stenoza kicmenog kanala.</li>
-            <li>Stimulacija misica - sprecava gubitak misica, ponovno obrazovanje, odrzava opseg inkontinencije pri stresu pokreta</li>
-            <li>Smanjenje edema (stanje koje ukljucuje prekomerno sakupljanje vodene tecnosti u supljinama ili tkivima)</li>
-            <li>Povrede misica</li>
+            <li>Stenoza kičmenog kanala.</li>
+            <li>Stimulacija mišića - sprečava gubitak mišića, ponovno obrazovanje, održava opseg inkontinencije pri stresu pokreta</li>
+            <li>Smanjenje edema (stanje koje uključuje prekomerno sakupljanje vodene tečnosti u šupljinama ili tkivima)</li>
+            <li>Povrede mišića</li>
             <li>Povrede ligamenta</li>
         </ul>
 
-        <h4 class="py-4">KOJI SU FIZIOLOSKI EFEKTI INTERFERENTNE TERAPIJE (IFT)?</h4>
-        <p class="py-2 fs-5">Interferentna terapija se siroko koristi, ali fizioterapeut treba da zna kako da je koristi u zavisnosti od stanja. <br> Interferentna terapija koristi znacajne fizioloske efekte niske frekvencije (manje od 250pps) elektricne stimulacije nerava. <br>
+        <h4 class="py-4">KOJI SU FIZIOLOŠKI EFEKTI INTERFERENTNE TERAPIJE (IFT)?</h4>
+        <p class="py-2 fs-5">Interferentna terapija se široko koristi, ali fizioterapeut treba da zna kako da je koristi u zavisnosti od stanja. <br> Interferentna terapija koristi značajne fiziološke efekte niske frekvencije (manje od 250pps) električne stimulacije nerava. <br>
         Efekti interferentne terapije:</p>
 
         <ul>
             <li>Smanjuje bol i upalu.</li>
-            <li>Povecava cirkulaciju krvi.</li>
+            <li>Povećava cirkulaciju krvi.</li>
             <li>Izaziva vazodilataciju.</li>
-            <li>Uklanja otpadne materije iz pogodjenog podrucja.</li>
-            <li>Povecava brzinu metabolizma.</li>
+            <li>Uklanja otpadne materije iz pogođenog područja.</li>
+            <li>Povećava brzinu metabolizma.</li>
             <li>Smanjuje krvni pritisak.</li>
-            <li>Leci hronicne lezije ligamenta.</li>
-            <li>Leci edem i hematom.</li>
-            <li>Poboljsava ogranicene pokrete zglobova.</li>
-            <li>Povecava stimulaciju misica.</li>
-            <li>Vraca izgubljeno kretanje misica.</li>
+            <li>Leči hronične lezije ligamenta.</li>
+            <li>Leči edem i hematom.</li>
+            <li>Poboljšava ograničene pokrete zglobova.</li>
+            <li>Povećava stimulaciju mišića.</li>
+            <li>Vraća izgubljeno kretanje mišića.</li>
         </ul>
 
         <h4 class="py-4">KOJE SU KONTRAINDIKACIJE ZA INTERFERENTNU TERAPIJU (IFT)?</h4>
-        <p class="py-2 fs-5">IFT je uobicajeni modalitet za ublazavanje bolova bez nezeljenih efekata koje imaju oralni lekovi protiv bolova i antiinflamatorni lekovi. <br> Kao i svaki drugi terapeutski modalitet, on takodje ima neka ogranicenja kao sto su: <br> </p>
+        <p class="py-2 fs-5">IFT je uobičajeni modalitet za ublažavanje bolova bez neželjenih efekata koje imaju oralni lekovi protiv bolova i antiinflamatorni lekovi. <br> Kao i svaki drugi terapeutski modalitet, on takođe ima neka ograničenja kao što su: <br> </p>
 
         <ul>
             <li>Infektivno stanje</li>
             <li>Malignost.</li>
             <li>Pejsmejkeri.</li>
-            <li>Gubitak osecaja.</li>
+            <li>Gubitak osećaja.</li>
             <li>Opasnost od krvarenja</li>
             <li>Velike otvorene rane.</li>
-            <li>Dermatoloska stanja.</li>
+            <li>Dermatološka stanja.</li>
             <li>Pregnant Uterus.</li>
             <li>Arterijska bolest.</li>
             <li>Febrilno stanje.</li>
@@ -181,20 +181,20 @@ include 'navbar.php'; ?>
 </div>
 
         <div class="ostatak">
-        <h3 class="py-4 text-center">ULTRAZVUCNA TERAPIJA</h3>
-        <p class="py-2 fs-5">Primena ultrazvucne terapije pomaze povecanju protoka krvi u lokalizovanom podrucju, kako bi se smanjio otok i upala. <br> Takodje se koristi za ubrzanje zarastanja preloma kostiju. <br>
-        Terapija u osnovi ukljucuje upotrebu metalne sonde. <br> Postupak pocinje nanosenjem gela ili na glavu sonde ili direktno na kozu. <br>
-        Nakon nanosenja gela, sonda se kontinuirano pomera preko izabranog podrucja u trajanju od 5 do 10 minuta. <br> Intenzitet ili snaga ultrazvuka se podesava prema zeljenom efektu. <br> Neki ljudi mogu osetiti blagi puls tokom ove terapije, dok drugi mogu osetiti blagu toplinu u izabranom podrucju.</p>
+        <h3 class="py-4 text-center">ULTRAZVUČNA TERAPIJA</h3>
+        <p class="py-2 fs-5">Primena ultrazvučne terapije pomaže povećanju protoka krvi u lokalizovanom području, kako bi se smanjio otok i upala. <br> Takođe se koristi za ubrzanje zarastanja preloma kostiju. <br>
+        Terapija u osnovi uključuje upotrebu metalne sonde. <br> Postupak počinje nanošenjem gela ili na glavu sonde ili direktno na kožu. <br>
+        Nakon nanošenja gela, sonda se kontinuirano pomera preko izabranog područja u trajanju od 5 do 10 minuta. <br> Intenzitet ili snaga ultrazvuka se podešava prema željenom efektu. <br> Neki ljudi mogu osetiti blagi puls tokom ove terapije, dok drugi mogu osetiti blagu toplinu u izabranom području.</p>
 
-        <h4 class="py-4">Stanja koja se lece ultrazvucnom terapijom</h4>
-        <p class="py-2 fs-5">Ultrazvucna terapija ima brojne prednosti, jer se moze koristiti za sirok spektar problema. Medjutim, najcesce se koristi za: <br></p>
+        <h4 class="py-4">Stanja koja se leče ultrazvučnom terapijom</h4>
+        <p class="py-2 fs-5">Ultrazvučna terapija ima brojne prednosti, jer se može koristiti za širok spektar problema. Međutim, najčešće se koristi za: <br></p>
 
         <ul>
-            <li>Zagrevanje i opustanje misica kako bi se ublazio bol</li>
-            <li>Povecanje protoka krvi, tj. limfe (limfa: tecnost koja nosi bela krvna zrnca po celom telu) radi ubrzavanja procesa zarastanja, ne samo misica, vec i zglobova i ligamenata.</li>
-            <li>Omeksavanje bilo kojeg postojeceg oziljnog tkiva</li>
+            <li>Zagrevanje i opuštanje mišića kako bi se ublažio bol</li>
+            <li>Povećanje protoka krvi, tj. limfe (limfa: tečnost koja nosi bela krvna zrnca po celom telu) radi ubrzavanja procesa zarastanja, ne samo mišića, već i zglobova i ligamenata.</li>
+            <li>Omekšavanje bilo kojeg postojećeg oziljnog tkiva</li>
             <li>Pulsni ultrazvuk niskog intenziteta (LIPUS) koristi se za sanaciju preloma</li>
-            <li>Lecenje osteoartritisa kolena (OA)</li>
+            <li>Lečenje osteoartritisa kolena (OA)</li>
         </ul>
 
         <h3 class="py-4 text-center">LASERSKA TERAPIJA</h3>
@@ -203,42 +203,42 @@ include 'navbar.php'; ?>
         Postupak je generalno siguran, efikasan i neinvazivan za upotrebu. Iako ćete osetiti da laserski uređaj dodiruje vašu kožu, procedura je bezbolna, ne oseća se vibracija ili toplota.
         </p>
 
-        <h4 class="py-4">Stanja koja se lece laser terapijom</h4>
-        <p class="py-2 fs-5">Sa sirokim spektrom prednosti, LASER terapija je prikladna za mnoge planove lecenja. Neki od njih su: <br></p>
+        <h4 class="py-4">Stanja koja se leče laser terapijom</h4>
+        <p class="py-2 fs-5">Sa širokim spektrom prednosti, LASER terapija je prikladna za mnoge planove lečenja. Neki od njih su: <br></p>
 
         <ul>
-            <li>Opsti hronicni bol</li>
+            <li>Opšti hronični bol</li>
             <li>Teniski lakat</li>
             <li>Plantarni fasciitis</li>
             <li>Udar u rame</li>
             <li>Smrznuto rame</li>
             <li>Disk hernija</li>
-            <li>Isijas</li>
+            <li>Išijas</li>
             <li>Disfunkcija karlice</li>
-            <li>Osteoartritis kolena, kuka i skocnog zgloba</li>
+            <li>Osteoartritis kolena, kuka i skočnog zgloba</li>
             <li>Reumatoidni artritis</li>
             <li>Tendonitis</li>
             <li>Teniski lakat</li>
             <li>Temporomandibularni zglob</li>
-            <li>Dijabeticka neuropatija</li>
+            <li>Dijabetička neuropatija</li>
             <li>Burzitis kuka ili ramena</li>
         </ul>
 
         <h3 class="py-4 text-center">KRIOTERAPIJA</h3>
-        <p class="py-2 fs-5">Krioterapija ili hladna terapija se koristi u rehabilitaciji povreda, a cesto se koristi za ublazavanje bolova, smanjenje temperature, kontrolu krvarenja, prevenciju ili smanjenje edema od traume i upale, smanjenje misicnog spazma i smanjenje spasticnosti. <br>
-        Terapija se obicno primenjuje tokom prvih 24 do 48 sati nakon povrede. <br> Prvo nanosenje hladnoce obicno dovodi do smanjene filtracije tecnosti u intersticijumu tkiva, smanjene upale i bola i smanjenja brzine metabolizma.</p>
+        <p class="py-2 fs-5">Krioterapija ili hladna terapija se koristi u rehabilitaciji povreda, a često se koristi za ublažavanje bolova, smanjenje temperature, kontrolu krvarenja, prevenciju ili smanjenje edema od traume i upale, smanjenje mišićnog spazma i smanjenje spastićnosti. <br>
+        Terapija se obično primenjuje tokom prvih 24 do 48 sati nakon povrede. <br> Prvo nanošenje hladnoće obično dovodi do smanjene filtracije tečnosti u interstićijumu tkiva, smanjene upale i bola i smanjenja brzine metabolizma.</p>
 
-        <p class="py-2 fs-5">Smanjenje temperature koze/mekih tkiva dovodi do:</p>
+        <p class="py-2 fs-5">Smanjenje temperature kože/mekih tkiva dovodi do:</p>
 
         <ul>
             <li>Smanjenja protoka krvi</li>
             <li>Smanjenje otoka</li>
-            <li>Pomaze u smanjenju misicnog spazma</li>
-            <li>Smanjuje brzinu metabolizma ogranicavanjem protoka kiseonika do celija</li>
+            <li>Pomaže u smanjenju mišićnog spazma</li>
+            <li>Smanjuje brzinu metabolizma ograničavanjem protoka kiseonika do ćelija</li>
             <li>Smanjuje upalu smanjenjem protoka krvi usled kontrakcije krvnih sudova</li>
         </ul>
 
-        <p class="py-2 fs-5">Stanja koja se lece krioterapijom</p>
+        <p class="py-2 fs-5">Stanja koja se leče krioterapijom</p>
 
         <ul>
             <li>Osteoartritis</li>
@@ -246,33 +246,32 @@ include 'navbar.php'; ?>
             <li>Giht</li>
             <li>Sojevi</li>
             <li>Tendinitis ili iritacija tetiva rane akutne povrede i zapaljenja</li>
-            <li>Spazam misica</li>
-            <li>Spasticna stanja</li>
+            <li>Spazam mišića</li>
+            <li>Spastićna stanja</li>
             <li>Smanjenje temperature</li>
             <li>Edematozna stanja</li>
-            <li>Hitna pomoc za opekotine</li>
-            <li>Ograniceni sekundarni bol ROM</li>
+            <li>Hitna pomoć za opekotine</li>
+            <li>Ograničeni sekundarni bol ROM</li>
         </ul>
 
         <h3 class="py-4 text-center">TERMOTERAPIJA</h3>
-        <p class="py-2 fs-5">Termoterapija koristi toplotu za povecanje cirkulacije krvi u odredjenom delu tela, sto moze olaksati bol, opustiti misice, i ubrzati proces oporavka. <br>Toplota moze biti primenjena direktno na povrsinu koze pomocu termofora, toplih obloga ili toplih kupki. <br> Ova terapija je posebno korisna za ljude koji pate od hronicnih bolova, artritisa, grceva u misicima, i povreda mekih tkiva. <br>
-        Povecanje temperature koze/mekog tkiva dovodi do: <br> Povecanja protoka krvi vazodilatacijom <br>
-        Povecava apsorpciju kiseonika cime se povecava zarastanje tkiva <br>
-        Povecava brzinu metabolizma <br>
-        Povecava rastegljivost tkiva <br></p>
+        <p class="py-2 fs-5">Termoterapija koristi toplotu za povećanje cirkulacije krvi u određenom delu tela, što može olakšati bol, opustiti mišiće, i ubrzati proces oporavka. <br>Toplota može biti primenjena direktno na površinu kože pomoću termofora, toplih obloga ili toplih kupki. <br> Ova terapija je posebno korisna za ljude koji pate od hroničnih bolova, artritisa, grčeva u mišićima, i povreda mekih tkiva. <br>
+        Povećanje temperature kože/mekog tkiva dovodi do: <br> Povećanja protoka krvi vazodilatačijom <br>
+        Povećava apsorpciju kiseonika čime se povećava zarastanje tkiva <br>
+        Povećava brzinu metabolizma <br>
+        Povećava rastegljivost tkiva <br></p>
 
-        <p class="py-2 fs-5">Stanja koja se lece termoterapijom</p>
+        <p class="py-2 fs-5">Stanja koja se leče termoterapijom</p>
         <ul>
             <li>Osteoartritis</li>
-            <li>Naprezanje i uganuce</li>
+            <li>Naprezanje i uganuće</li>
             <li>Tendonitis</li>
-            <li>Zagrevanje ukocenih misica ili tkiva pre aktivnosti</li>
-            <li>Ublazavanje bolova ili grceva koji se odnose na povrede vrata ili ledja, ukljucujuci donji deo ledja, subakutna ili hronicna traumatska i inflamatorna stanja</li>
-            <li>Prethodno zagrevanje pre elektricne stimulacije</li>
+            <li>Zagrevanje ukočenih mišića ili tkiva pre aktivnosti</li>
+            <li>Ublažavanje bolova ili grčeva koji se odnose na povrede vrata ili leđa, uključujući donji deo leđa, subakutna ili hronična traumatska i inflamatorna stanja</li>
+            <li>Prethodno zagrevanje pre električne stimulacije</li>
         </ul>
         </div>
 </div>
-
 <?php include "kontakt.php"; 
 ?>
 <?php

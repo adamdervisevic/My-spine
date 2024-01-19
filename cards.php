@@ -11,7 +11,7 @@
           <div class="inner">
             <a href="fizioterapeutski-pregled.php" target="_blank"><button type="button"
                 class="btn btn-outline-primary">
-                Saznajte vise
+                Saznajte više
               </button></a>
           </div>
         </div>
@@ -27,7 +27,7 @@
         <div class="back">
           <div class="inner">
             <a href="fizikalna-terapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
-                Saznajte vise
+              Saznajte više
               </button></a>
           </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="back">
           <div class="inner">
             <a href="akupunktura.php" target="_blank"><button type="button" class="btn btn-outline-primary">
-                Saznajte vise
+              Saznajte više
               </button></a>
           </div>
         </div>
@@ -59,7 +59,7 @@
         <div class="back">
           <div class="inner">
             <a href="kineziterapija.php" target="_blank"><button type="button" class="btn btn-outline-primary">
-                Saznajte vise
+              Saznajte više
               </button></a>
           </div>
         </div>
@@ -69,13 +69,13 @@
       <div class="container">
         <div class="front" style="background-image: url(images/masaze.webp)">
           <div class="inner">
-            <p>Masaze</p>
+            <p>Masaže</p>
           </div>
         </div>
         <div class="back">
           <div class="inner">
             <a href="masaza.php" target="_blank"><button type="button" class="btn btn-outline-primary">
-                Saznajte vise
+              Saznajte više
               </button></a>
           </div>
         </div>

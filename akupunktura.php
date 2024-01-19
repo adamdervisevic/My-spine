@@ -7,25 +7,25 @@ include 'navbar.php'; ?>
     <h2 class="text-center">Akupunktura</h2>
     <h4 class="py-3">Sta je akupunktura ili terapija suvim iglama?</h4>
 
-    <p class="py-2 fs-5">Akupunktura je proces u kojem se tanke igle ubacuju u okidacke tacke ili zategnute misice na telu. <br> Glavni cilj je poboljsanje zdravlja tkiva i obnavljanje funkcije misica. <br> Nasi misici ponekad razvijaju cvorove, takozvane okidacke tacke koji mogu biti vrlo osetljivi i bolni na dodir. <br>
-    Fizioterapeut ubacuje tanke cvrste igle kroz kozu u okidacke tacke. <br> Ove igle se koriste za stimulaciju tkiva, a ne za ubrizgavanje lekova. <br> Pacijenti mogu osetiti razlicite senzacije poput bolova u misicima, trzanja misica i sl prilikom ubacivanja igle, sto smatramo pozitivnim znakom. <br> Igle mogu biti postavljene duboko ili povrsinski, na krace ili duze periode, zavisno od tipa bola koji se leci.</p>
+    <p class="py-2 fs-5">Akupunktura je proces u kojem se tanke igle ubacuju u okidačke tačke ili zategnute mišiće na telu. <br> Glavni cilj je poboljšanje zdravlja tkiva i obnavljanje funkcije mišića. <br> Naši mišići ponekad razvijaju čvorove, takozvane okidačke tačke koji mogu biti vrlo osetljivi i bolni na dodir. <br>
+    Fizioterapeut ubacuje tanke čvrste igle kroz kožu u okidačke tačke. <br> Ove igle se koriste za stimulaciju tkiva, a ne za ubrizgavanje lekova. <br> Pacijenti mogu osetiti različite senzacije poput bolova u mišićima, tržanja mišića i sl prilikom ubacivanja igle, što smatramo pozitivnim znakom. <br> Igle mogu biti postavljene duboko ili površinski, na kraće ili duže periode, zavisno od tipa bola koji se leči.</p>
 
-    <p class="py-2 fs-5">Stanja koja se lece terapijom suvim iglama</p>
+    <p class="py-2 fs-5">Stanja koja se leče terapijom suvim iglama</p>
 
-    <p class="py-2 fs-5">Ova terapija pomaze u lecenju:</p>
+    <p class="py-2 fs-5">Ova terapija pomaže u lečenju:</p>
 
     <ul>
-        <li>bola u ledjima</li>
+        <li>bola u leđima</li>
         <li>bola u vratu</li>
         <li>bola u laktu</li>
-        <li>disfunkcije kicme i zglobova</li>
+        <li>disfunkcije kičme i zglobova</li>
         <li>migrane</li>
-        <li>isijasa</li>
+        <li>išijasa</li>
         <li>problemi sa vilicom i ustima</li>
-        <li>oremecaja ponavljajucih pokreta</li>
+        <li>oremećaja ponavljajućih pokreta</li>
         <li>bolova u karlici</li>
-        <li>nocnih grceva</li>
-        <li>post-herpeticne neuralgije</li>
+        <li>noćnih grčeva</li>
+        <li>post-herpetićne neuralgije</li>
     </ul>
 </div>
 

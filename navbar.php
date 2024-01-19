@@ -26,7 +26,7 @@
             </li>
             <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Akupunktura</a></li>
             <li><a class="dropdown-item" href="kineziterapija.php" target="_blank">Kineziterapija</a></li>
-            <li><a class="dropdown-item" href="masaze.php" target="_blank">Masaze</a></li>
+            <li><a class="dropdown-item" href="masaze.php" target="_blank">Masaže</a></li>
           </ul>
         </li>
         <li class="nav-item me-2">
@@ -34,5 +34,5 @@
         </li>
         <li class="nav-item">
           <a class="nav-link fs-4 always_blue_link" href="https://myspinemojakima.setmore.com/" target="_blank"
-            style="color: #0076be">Zakazi termin</a>
+            style="color: #0076be">Zakaži termin</a>
 </nav>
