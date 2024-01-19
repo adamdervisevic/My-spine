@@ -74,7 +74,7 @@
         </div>
         <div class="back">
           <div class="inner">
-            <a href="masaza.php" target="_blank"><button type="button" class="btn btn-outline-primary">
+            <a href="masaze.php" target="_blank"><button type="button" class="btn btn-outline-primary">
               Saznajte više
               </button></a>
           </div>
