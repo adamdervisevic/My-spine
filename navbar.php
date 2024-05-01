@@ -24,7 +24,7 @@
             <li>
               <a class="dropdown-item" href="fizikalna-terapija.php" target="_blank">Fizikalna terapija</a>
             </li>
-            <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Akupunktura</a></li>
+            <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Dry needling</a></li>
             <li><a class="dropdown-item" href="kineziterapija.php" target="_blank">Kineziterapija</a></li>
             <li><a class="dropdown-item" href="masaze.php" target="_blank">Masaže</a></li>
           </ul>

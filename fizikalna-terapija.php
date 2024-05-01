@@ -16,7 +16,7 @@ include 'navbar.php'; ?>
 
             <h4 class="py-4">Uopšteno je kategorisan u 3 tipa:</h4>
             <p class="py-2 fs-5"><b>Konvencionalni TENS (HIGH):</b> <br> Uključuje primenu struje niskog intenziteta/visoke frekvencije da bi se proizveo jak, ali ugodan osećaj, njegovo trajanje je 30 min. <br>
-                <b>TENS nalik akupunkturi (LOV):</b><br> Uključuje primenu struje visokog intenziteta / niske frekvencije preko mišića ili akupunkturnih tačaka da bi se proizveo jak, ali udoban osećaj. <br> Njegovo trajanje je manje od 20 minuta. <br>
+                <b>TENS nalik dry needling-u (LOV):</b><br> Uključuje primenu struje visokog intenziteta / niske frekvencije preko mišića ili akupunkturnih tačaka da bi se proizveo jak, ali udoban osećaj. <br> Njegovo trajanje je manje od 20 minuta. <br>
                 <b>Kratki intenzivni TENS:</b><br> Uključuje primenu struje visokog intenziteta / visoke frekvencije. <br> Traje ne više od 5 minuta.</p>
 
             

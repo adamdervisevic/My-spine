@@ -37,7 +37,7 @@
       <div class="container">
         <div class="front" style="background-image: url(images/Akupunktura.webp)">
           <div class="inner">
-            <p>Akupunktura</p>
+            <p>Dry needling</p>
           </div>
         </div>
         <div class="back">

@@ -16,12 +16,12 @@ include 'navbar.php'; ?>
         <p class="py-2 fs-5">Krioterapija - 500din</p>
         <p class="py-2 fs-5">Termoterapija - 500din</p>
         <p class="py-2 fs-5">Manuelne procedure + fizikalna terapija (2 regije) - 2500din</p>
-        <p class="py-2 fs-5">DRY NEEDLING/Akupunktura - 700din</p>
+        <p class="py-2 fs-5">DRY NEEDLING - 700din</p>
         <p class="py-2 fs-5">Elektrostimulacija mišića - 700din</p>
         <p class="py-2 fs-5">Dijadinamičke struje mišića - 700din</p>
         <p class="py-2 fs-5">TENS - 700din</p>
-        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + akupunktura- 2500din</b></p>
-        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + masaža + akupunktura - 3000din</b></p>
+        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + dry needling- 2500din</b></p>
+        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + masaža + dry needling - 3000din</b></p>
 </div>
 </div>
 
