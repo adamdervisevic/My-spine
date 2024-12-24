@@ -6,22 +6,20 @@ include 'navbar.php'; ?>
 <h1 class="text-center my-5">Cenovnik</h1>
     <div class="cenovnik">
     <p class="py-2 fs-5">Fizioterapeutski pregled/KONSULTACIJA - besplatan</p>
-        <p class="py-2 fs-5">Manuelna masaža(polovina tela) - 1000din</p>
-        <p class="py-2 fs-5">Manuelna masaža(celo telo) - 2000din</p>
-        <p class="py-2 fs-5">Anticelulit masaža - 2500din</p>
-        <p class="py-2 fs-5">Vežbe(jedan segment) - 700din</p>
-        <p class="py-2 fs-5">Ultrazvučna terapija - 700din</p>
-        <p class="py-2 fs-5">Laser - 700din</p>
-        <p class="py-2 fs-5">Elektroforeza leka - 900din</p>
-        <p class="py-2 fs-5">Krioterapija - 500din</p>
-        <p class="py-2 fs-5">Termoterapija - 500din</p>
-        <p class="py-2 fs-5">Manuelne procedure + fizikalna terapija (2 regije) - 2500din</p>
-        <p class="py-2 fs-5">DRY NEEDLING - 700din</p>
-        <p class="py-2 fs-5">Elektrostimulacija mišića - 700din</p>
-        <p class="py-2 fs-5">Dijadinamičke struje mišića - 700din</p>
-        <p class="py-2 fs-5">TENS - 700din</p>
-        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + dry needling- 2500din</b></p>
-        <p class="py-2 fs-5"><b>Kompletna fizikalna terapija + masaža + dry needling - 3000din</b></p>
+        <p class="py-2 fs-5">Lečenje diskus hernije
+        - 4000,00 rsd</p>
+        <p class="py-2 fs-5">DTK, dekompresija kičme - 3000,00 rsd</p>
+        <p class="py-2 fs-5">Šok vejv terapija - 2500,00 rsd</p>
+        <p class="py-2 fs-5">Fizikalna terapija - 2000,00 rsd</p>
+        <p class="py-2 fs-5">Terapeutska masaža celog tela - 3000,00 rsd</p>
+        <p class="py-2 fs-5">Parcijalna terapeutska - 2000,00 rsd</p>
+        <p class="py-2 fs-5">Kineziterapija - 2500,00 rsd</p>
+        <p class="py-2 fs-5">Elektroterapija - 1300,00 rsd</p>
+        <p class="py-2 fs-5">UZ, ultrazvuk terapija - 700,00 rsd</p>
+        <p class="py-2 fs-5">Laser terapija - 700,00 rsd</p>
+        <p class="py-2 fs-5">KFT + masaža + dry needling - 3000,00 rsd</p>
+        <p class="py-2 fs-5">KFT + cupping - 2500,00 rsd</p>
+
 </div>
 </div>
 

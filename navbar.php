@@ -27,6 +27,8 @@
             <li><a class="dropdown-item" href="akupunktura.php" target="_blank">Dry needling</a></li>
             <li><a class="dropdown-item" href="kineziterapija.php" target="_blank">Kineziterapija</a></li>
             <li><a class="dropdown-item" href="masaze.php" target="_blank">Masaže</a></li>
+            <li><a class="dropdown-item" href="tecar-terapija.php" target="_blank">Tecar terapija</a></li>
+            <li><a class="dropdown-item" href="spinalna-dekompresiona-terapija.php" target="_blank">Spinalna dekompresiona terapija</a></li>
           </ul>
         </li>
         <li class="nav-item me-2">
