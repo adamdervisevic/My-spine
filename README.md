@@ -29,3 +29,6 @@ For detailed information about our services, team, and how we can help you, plea
 
 We are committed to helping you regain your mobility and improve your life's quality
 
+
+EDIT: I'm currently in the process of updating this website, and it will be completely redesigned over time. The new version will be built in Webflow.
+
